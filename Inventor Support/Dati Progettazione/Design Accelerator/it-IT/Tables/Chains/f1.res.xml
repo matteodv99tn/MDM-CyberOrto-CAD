@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Fattore di servizio"/>
+  <string id="%2%" value="Caratteristiche macchina condotta"/>
+  <string id="%3%" value="Caratteristiche macchina motrice"/>
+  <string id="%4%" value="Funzionamento uniforme"/>
+  <string id="%5%" value="Shock lievi"/>
+  <string id="%6%" value="Shock moderati"/>
+  <string id="%7%" value="Shock intensi"/>
+  <string id="%8%" value="Fattore di shock"/>
+</Resources>

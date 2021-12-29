@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="Fattore di bloccaggio"/>
+  <string id="%2%" value="Connessione a pressione"/>
+  <string id="%3%" value="Lubrificazione"/>
+  <string id="%4%" value="Fattore di bloccaggio per"/>
+  <string id="%5%" value="Rilascio"/>
+  <string id="%6%" value="Scorrimento"/>
+  <string id="%7%" value="Circonferenziale"/>
+  <string id="%8%" value="Longitudinale"/>
+  <string id="%9%" value="Contrazione"/>
+  <string id="%10%" value="Lubrificato"/>
+  <string id="%11%" value="Non lubrificato"/>
+  <string id="%12%" value="Pressione"/>
+</Resources>

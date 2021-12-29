@@ -1,0 +1,216 @@
+<Resources>
+	<string id="%1%" value="Materiale giunto"/>
+	<string id="%2%" value="Designazione materiale"/>
+	<string id="%3%" value="Resistenza allo snervamento"/>
+	<string id="%4%" value="MPa"/>
+	<string id="%5%" value="Resistenza a trazione"/>
+	<string id="%6%" value="Limiti ammissibili della resistenza a trazione"/>
+	<string id="%7%" value="Tipo materiale"/>
+	<string id="%8%" value="Profilato di acciaio A283-Grado C"/>
+	<string id="%9%" value="Materiale di base"/>
+	<string id="%10%" value="Profilato di acciaio A519-1020"/>
+	<string id="%11%" value="Profilato di acciaio A519-1035"/>
+	<string id="%12%" value="Profilato di acciaio A572-Grado 42"/>
+	<string id="%13%" value="Profilato di acciaio A572-Grado 50"/>
+	<string id="%14%" value="Profilato di acciaio A519-1050"/>
+	<string id="%15%" value="Profilato di acciaio A512-MT1010SR"/>
+	<string id="%16%" value="Elettrodo E60XX"/>
+	<string id="%17%" value="Materiale saldatura"/>
+	<string id="%18%" value="Elettrodo E70XX"/>
+	<string id="%19%" value="Elettrodo E80XX"/>
+	<string id="%20%" value="Elettrodo E90XX"/>
+	<string id="%21%" value="Elettrodo E100XX"/>
+	<string id="%22%" value="Elettrodo E120XX"/>
+	<string id="%23%" value="Norme"/>
+	<string id="%24%" value="Std"/>
+	<string id="%25%" value="ANSI"/>
+	<string id="%26%" value="ISO"/>
+	<string id="%27%" value="DIN"/>
+	<string id="%28%" value="BS"/>
+	<string id="%29%" value="CSN"/>
+	<string id="%30%" value="NF"/>
+	<string id="%31%" value="JIS"/>
+	<string id="%32%" value="Materiale"/>
+	<string id="%33%" value="S|.y|"/>
+	<string id="%34%" value="S|.ult|"/>
+	<string id="%35%" value="S|.ult min| - S|.ult max|"/>
+	<string id="%36%" value="Tipo"/>
+	<string id="%37%" value="Profilato di acciaio S235JRG1"/>
+	<string id="%38%" value="Profilato di acciaio S235JRH"/>
+	<string id="%39%" value="Profilato di acciaio S235JRG21"/>
+	<string id="%40%" value="Profilato di acciaio S235J0"/>
+	<string id="%41%" value="Profilato di acciaio SPT360"/>
+	<string id="%42%" value="Profilato di acciaio SPT410"/>
+	<string id="%43%" value="Profilato di acciaio S275J2G3"/>
+	<string id="%44%" value="Profilato di acciaio S275J2HG3"/>
+	<string id="%45%" value="Profilato di acciaio S355J2G3"/>
+	<string id="%46%" value="Profilato di acciaio S355J2H"/>
+	<string id="%47%" value="Profilato di acciaio S355J0"/>
+	<string id="%48%" value="Profilato di acciaio S355J0H"/>
+	<string id="%49%" value="Profilato di acciaio SPT510"/>
+	<string id="%50%" value="Profilato di acciaio USt34-2"/>
+	<string id="%51%" value="Profilato di acciaio USt37-2"/>
+	<string id="%52%" value="Profilato di acciaio St37-2"/>
+	<string id="%53%" value="Profilato di acciaio Rst37-2"/>
+	<string id="%54%" value="Profilato di acciaio St37-3"/>
+	<string id="%55%" value="Profilato di acciaio St44-3"/>
+	<string id="%56%" value="Profilato di acciaio St44.0"/>
+	<string id="%57%" value="Profilato di acciaio St34-2BK"/>
+	<string id="%58%" value="Profilato di acciaio St52-3"/>
+	<string id="%59%" value="Profilato di acciaio St52.0"/>
+	<string id="%60%" value="Profilato di acciaio St37-2BK"/>
+	<string id="%61%" value="Profilato di acciaio St52-3BK"/>
+	<string id="%62%" value="Elettrodo E43XX"/>
+	<string id="%63%" value="Elettrodo E51XX"/>
+	<string id="%64%" value="Profilato di acciaio CFS3NBK"/>
+	<string id="%65%" value="Profilato di acciaio 40A"/>
+	<string id="%66%" value="Profilato di acciaio 40B"/>
+	<string id="%67%" value="Profilato di acciaio 40C"/>
+	<string id="%68%" value="Profilato di acciaio 43D"/>
+	<string id="%69%" value="Profilato di acciaio CFS6NBK"/>
+	<string id="%70%" value="Profilato di acciaio CFS8NBK"/>
+	<string id="%71%" value="Profilato di acciaio CEW2BK"/>
+	<string id="%72%" value="Profilato di acciaio 50D"/>
+	<string id="%73%" value="Profilato di acciaio 50C"/>
+	<string id="%74%" value="Profilato di acciaio CEW3BK"/>
+	<string id="%75%" value="Profilato di acciaio CEW5BK"/>
+	<string id="%76%" value="Profilato di acciaio 11343"/>
+	<string id="%77%" value="Profilato di acciaio 11353"/>
+	<string id="%78%" value="Profilato di acciaio 11366"/>
+	<string id="%79%" value="Profilato di acciaio 11368"/>
+	<string id="%80%" value="Profilato di acciaio 11369"/>
+	<string id="%81%" value="Profilato di acciaio 11373"/>
+	<string id="%82%" value="Profilato di acciaio 11375"/>
+	<string id="%83%" value="Profilato di acciaio 11378"/>
+	<string id="%84%" value="Profilato di acciaio 11416"/>
+	<string id="%85%" value="Profilato di acciaio 11418"/>
+	<string id="%86%" value="Profilato di acciaio 11419"/>
+	<string id="%87%" value="Profilato di acciaio 11425"/>
+	<string id="%88%" value="Elettrodo 11366"/>
+	<string id="%89%" value="Profilato di acciaio A34-2"/>
+	<string id="%90%" value="Profilato di acciaio E24-2"/>
+	<string id="%91%" value="Profilato di acciaio E24-3"/>
+	<string id="%92%" value="Profilato di acciaio E28-4"/>
+	<string id="%93%" value="Profilato di acciaio E36-3"/>
+	<string id="%94%" value="Profilato di acciaio E36-4"/>
+	<string id="%95%" value="Profilato di acciaio STKM12A"/>
+	<string id="%96%" value="Profilato di acciaio SS330"/>
+	<string id="%97%" value="Profilato di acciaio STKM13B"/>
+	<string id="%98%" value="Profilato di acciaio STKM16A"/>
+	<string id="%99%" value="Profilato di acciaio SM520C"/>
+	<string id="%100%" value="Profilato di acciaio SM520B"/>
+	<string id="%101%" value="Profilato di acciaio STKM12C"/>
+	<string id="%102%" value="Profilato di acciaio STKM16C"/>
+	<string id="%103%" value="Elettrodo D43XX"/>
+	<string id="%104%" value="Elettrodo D50XX"/>
+	<string id="%105%" value="Profilato di acciaio A36"/>
+	<string id="%106%" value="Steel ST0 GOST 380-94"/>
+	<string id="%107%" value="Steel ST1KP GOST 380-94"/>
+	<string id="%108%" value="Steel ST1PS GOST 380-94"/>
+	<string id="%109%" value="Steel ST1SP GOST 380-94"/>
+	<string id="%110%" value="Steel ST2KP GOST 380-94"/>
+	<string id="%111%" value="Steel ST2PS GOST 380-94"/>
+	<string id="%112%" value="Steel ST2SP GOST 380-94"/>
+	<string id="%113%" value="Steel ST3KP GOST 380-94"/>
+	<string id="%114%" value="Steel ST3PS GOST 380-94"/>
+	<string id="%115%" value="Steel ST3SP GOST 380-94"/>
+	<string id="%116%" value="Steel ST3GPS GOST 380-94"/>
+	<string id="%117%" value="Steel ST3GSP GOST 380-94"/>
+	<string id="%118%" value="Steel ST4KP GOST 380-94"/>
+	<string id="%119%" value="Steel ST4PS GOST 380-94"/>
+	<string id="%120%" value="Steel ST4SP GOST 380-94"/>
+	<string id="%121%" value="Steel ST5PS GOST 380-94"/>
+	<string id="%122%" value="Steel ST5SP GOST 380-94"/>
+	<string id="%123%" value="Steel ST5GSP GOST 380-94"/>
+	<string id="%124%" value="Steel ST6PS GOST 380-94"/>
+	<string id="%125%" value="Steel ST6SP GOST 380-94"/>
+	<string id="%126%" value="Steel 08KP GOST 1050-88"/>
+	<string id="%127%" value="Steel 10 GOST 1050-88"/>
+	<string id="%128%" value="Steel 20 GOST 1050-88"/>
+	<string id="%129%" value="Steel 35 GOST 1050-88"/>
+	<string id="%130%" value="Steel 45 GOST 1050-88"/>
+	<string id="%131%" value="Cast steel 25L GOST 977-88"/>
+	<string id="%132%" value="Cast steel 35L GOST 977-88"/>
+	<string id="%133%" value="Steel 20Ch GOST 4543-71"/>
+	<string id="%134%" value="Steel 40Ch GOST 4543-71"/>
+	<string id="%135%" value="Steel 18ChGT GOST 4543-71"/>
+	<string id="%136%" value="Steel 30ChGSA GOST 4543-71"/>
+	<string id="%137%" value="Acciaio 06G2SJu"/>
+	<string id="%138%" value="Acciaio 06ChGSJu"/>
+	<string id="%139%" value="Acciaio 08G2S"/>
+	<string id="%140%" value="Steel 09G2 GOST 19281-89"/>
+	<string id="%141%" value="Steel 09G2D GOST 19281-89"/>
+	<string id="%142%" value="Steel 09G2S GOST 19281-89"/>
+	<string id="%143%" value="Steel 09G2SD GOST 19281-89"/>
+	<string id="%144%" value="Steel 10G2B GOST 19281-89"/>
+	<string id="%145%" value="Steel 10G2BD GOST 19281-89"/>
+	<string id="%146%" value="Steel 10G2S1 GOST 19281-89"/>
+	<string id="%147%" value="Steel 10G2S1D GOST 19281-89"/>
+	<string id="%148%" value="Acciaio 10GS2"/>
+	<string id="%149%" value="Acciaio 10GT"/>
+	<string id="%150%" value="Steel 10ChGSN1D GOST 19281-89"/>
+	<string id="%151%" value="Steel 10ChNDP GOST 19281-89"/>
+	<string id="%152%" value="Steel 10ChSND GOST 19281-89"/>
+	<string id="%153%" value="Acciaio 12G2SMF"/>
+	<string id="%154%" value="Acciaio 12GN2MFAJu"/>
+	<string id="%155%" value="Steel 12GS GOST 19281-89"/>
+	<string id="%156%" value="Acciaio 12ChGN2MFBAJu"/>
+	<string id="%157%" value="Steel 14G2 GOST 19281"/>
+	<string id="%158%" value="Steel 14G2AF GOST 19281"/>
+	<string id="%159%" value="Steel 14G2AFD GOST 19281"/>
+	<string id="%160%" value="Steel 14ChGS GOST 19281"/>
+	<string id="%161%" value="Steel 15G2AFD GOST 19281-89"/>
+	<string id="%162%" value="Acciaio 15G2AFDPS"/>
+	<string id="%163%" value="Steel 15G2SF GOST 19281-89"/>
+	<string id="%164%" value="Steel 15G2SFD GOST 19281-89"/>
+	<string id="%165%" value="Acciaio 15GS"/>
+	<string id="%166%" value="Steel 15GF GOST 19281-89"/>
+	<string id="%167%" value="Steel 15GFD GOST 19281-89"/>
+	<string id="%168%" value="Steel 15ChSND GOST 19281-89"/>
+	<string id="%169%" value="Steel 16G2AF GOST 19281-89"/>
+	<string id="%170%" value="Steel 16G2AFD GOST 19281-89"/>
+	<string id="%171%" value="Steel 16GS GOST 19281-89"/>
+	<string id="%172%" value="Acciaio 16D"/>
+	<string id="%173%" value="Steel 17G1S GOST 19281-89"/>
+	<string id="%174%" value="Steel 17GS GOST 19281-89"/>
+	<string id="%175%" value="Steel 18G2AF GOST 19281-89"/>
+	<string id="%176%" value="Steel 18G2AFD GOST 19281-89"/>
+	<string id="%177%" value="Acciaio 18G2AFDPS"/>
+	<string id="%178%" value="Acciaio 18G2AFPS"/>
+	<string id="%179%" value="Acciaio 18G2S"/>
+	<string id="%180%" value="Acciaio 1Ch2M1"/>
+	<string id="%181%" value="Acciaio 20GS"/>
+	<string id="%182%" value="Acciaio 20GS2"/>
+	<string id="%183%" value="Acciaio 20ChG2C"/>
+	<string id="%184%" value="Acciaio 23Ch2G2T"/>
+	<string id="%185%" value="Acciaio 25G2S"/>
+	<string id="%186%" value="Acciaio 25S2R"/>
+	<string id="%187%" value="Acciaio 28S"/>
+	<string id="%188%" value="Acciaio 30ChS2"/>
+	<string id="%189%" value="Acciaio 35GS"/>
+	<string id="%190%" value="Acciaio 80S"/>
+	<string id="%191%" value="Elettrodo E38"/>
+	<string id="%192%" value="Elettrodo E42"/>
+	<string id="%193%" value="Elettrodo E46"/>
+	<string id="%194%" value="Elettrodo E50"/>
+	<string id="%195%" value="Elettrodo E42A"/>
+	<string id="%196%" value="Elettrodo E46A"/>
+	<string id="%197%" value="Elettrodo E50A"/>
+	<string id="%198%" value="Elettrodo E55"/>
+	<string id="%199%" value="Elettrodo E60"/>
+	<string id="%200%" value="Elettrodo E70"/>
+	<string id="%201%" value="Elettrodo E85"/>
+	<string id="%202%" value="Elettrodo E100"/>
+	<string id="%203%" value="Elettrodo E125"/>
+	<string id="%204%" value="Elettrodo E150"/>
+	<string id="%205%" value="Elettrodo E-09M"/>
+	<string id="%206%" value="Elettrodo E-09MCh"/>
+	<string id="%207%" value="Elettrodo E-09Ch1M"/>
+	<string id="%208%" value="Elettrodo E-05Ch2M"/>
+	<string id="%209%" value="Elettrodo E-09Ch2M1"/>
+	<string id="%210%" value="Elettrodo E-09Ch1MF"/>
+	<string id="%211%" value="Elettrodo E-10Ch1M1NFB"/>
+	<string id="%212%" value="Elettrodo E-10Ch3M1BF"/>
+	<string id="%213%" value="Elettrodo E-10Ch5MF"/>
+	<string id="%214%" value="GOST"/>
+</Resources>

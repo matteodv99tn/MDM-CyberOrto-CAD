@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="Fattore progetto accoppiamento"/>
+  <string id="%2%" value="Connessione fissa"/>
+  <string id="%3%" value="Accoppiamento scorrevole senza caricamento"/>
+  <string id="%4%" value="Accoppiamento scorrevole durante il caricamento"/>
+</Resources>

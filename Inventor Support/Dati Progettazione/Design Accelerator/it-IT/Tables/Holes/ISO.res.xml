@@ -1,0 +1,18 @@
+<Resources>
+  <string id="%1%" value="Diametro nominale"/>
+  <string id="%2%" value="Gioco stretto"/>
+  <string id="%3%" value="Gioco normale"/>
+  <string id="%4%" value="Gioco ampio"/>
+  <string id="%5%" value="Diametro testa"/>
+  <string id="%6%" value="Profondità lamatura"/>
+  <string id="%7%" value="Angolo svasatura"/>
+  <string id="%8%" value="Foro a diametro uniforme ISO"/>
+  <string id="%9%" value="Vite a testa svasata piana ISO 2009/7046"/>
+  <string id="%10%" value="Vite a testa svasata rialzata ISO 2010/7047"/>
+  <string id="%11%" value="Vite a testa esagonale arrotondata ISO 24017"/>
+  <string id="%12%" value="Vite a testa esagonale arrotondata ISO 24014 (lamatura superficiale)"/>
+  <string id="%13%" value="Vite a testa esagonale ISO"/>
+  <string id="%14%" value="Vite a testa svasata piana con esagono incassato ISO 10642"/>
+  <string id="%15%" value="Vite a testa incassata ISO 4762"/>
+  <string id="%16%" value="Vite intagliata a testa cilindrica ISO 1207"/>
+</Resources>

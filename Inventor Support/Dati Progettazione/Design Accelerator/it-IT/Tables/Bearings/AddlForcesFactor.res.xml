@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Fattore delle forze aggiuntive"/>
+  <string id="%2%" value="Fattore"/>
+  <string id="%3%" value="Tipo di macchina"/>
+  <string id="%4%" value="Macchine a rotazione elettrica, turbine, turbocompressori"/>
+  <string id="%5%" value="Motore a pistoni e ferroviario"/>
+  <string id="%6%" value="Nastri di trasporto, teleferiche, pompe, ventilatori"/>
+  <string id="%7%" value="Gru, elevatori, ventilatori per miniere"/>
+  <string id="%8%" value="Elevatori e pompe per miniere"/>
+  <string id="%9%" value="Pompe a stantuffo e compressori"/>
+  <string id="%10%" value="Molazze, mulini rotanti e a martelli, frantumatori"/>
+  <string id="%11%" value="Macchine per movimentazione terra, trapanatrici di profondità"/>
+  <string id="%12%" value="Tamburi essiccatori"/>
+  <string id="%13%" value="Macchine tessili e per cartiere"/>
+  <string id="%14%" value="Macchine per lavorazioni alimentari"/>
+  <string id="%15%" value="Rettificatrici; trapanatrici, fresatrici, seghe e macchine per taglio legno"/>
+  <string id="%16%" value="Torni, macchine da taglio con moto alternato"/>
+  <string id="%17%" value="Laminatoi, magli, cesoie meccaniche per lamiere, stampatrici"/>
+  <string id="%18%" value="Treni sbozzatori e treni grossi"/>
+</Resources>

@@ -1,0 +1,10 @@
+<Resources>
+  <string id="%1%" value="Durata utile di servizio desiderata [ore]"/>
+  <string id="%2%" value="Macchine, strumenti e utensili domestici utilizzati raramente"/>
+  <string id="%3%" value="Macchine per servizi brevi o intermittenti, ad esempio gli utensili ad uso manuale"/>
+  <string id="%4%" value="Macchine altamente affidabili per servizi brevi o intermittenti"/>
+  <string id="%5%" value="Macchine per servizio quotidiano di 8 ore non sempre utilizzate appieno"/>
+  <string id="%6%" value="Macchine per servizio quotidiano da 8 a 16 ore utilizzate appieno"/>
+  <string id="%7%" value="Macchine per servizi continuativi"/>
+  <string id="%8%" value="Macchine per servizio continuativo con elevata affidabilità"/>
+</Resources>

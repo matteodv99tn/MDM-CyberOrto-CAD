@@ -1,0 +1,11 @@
+<Resources>
+  <string id="%1%" value="Materiale di base"/>
+  <string id="%2%" value="Designazione materiale"/>
+  <string id="%3%" value="Pressione ammissibile"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="Acciaio fuso"/>
+  <string id="%6%" value="Acciaio martellato"/>
+  <string id="%7%" value="Acciaio saldato"/>
+  <string id="%8%" value="Materiale"/>
+  <string id="%9%" value="||s||.al|"/>
+</Resources>

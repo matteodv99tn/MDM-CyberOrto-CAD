@@ -1,0 +1,7 @@
+<Resources>
+  <string id="%1%" value="Fattore di usura a fatica"/>
+  <string id="%2%" value="Unidirezionale"/>
+  <string id="%3%" value="Completamente invertito"/>
+  <string id="%4%" value="Numero di cicli del momento"/>
+  <string id="%5%" value="Fattore di usura a fatica, Kf"/>
+</Resources>

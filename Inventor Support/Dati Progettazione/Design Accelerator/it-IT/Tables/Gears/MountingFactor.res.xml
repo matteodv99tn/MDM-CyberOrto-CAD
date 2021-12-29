@@ -1,0 +1,11 @@
+<Resources>
+  <string id="%1%" value="Fattore di supporto"/>
+  <string id="%2%" value="Caratteristica supporto"/>
+  <string id="%3%" value="Larghezza faccia [pollici]"/>
+  <string id="%4%" value="da 0 a 2"/>
+  <string id="%5%" value="da 16 in su"/>
+  <string id="%6%" value="Supporti accurati, giochi cuscinetto ridotti, deformazione minima, ingranaggi di precisione"/>
+  <string id="%7%" value="Supporti meno rigidi, ingranaggi meno accurati, contatto sull'intera faccia"/>
+  <string id="%8%" value="Precisione e supporti in modo che non vi sia il contatto sull'intera faccia"/>
+  <string id="%9%" value="oltre 2,2"/>
+</Resources>

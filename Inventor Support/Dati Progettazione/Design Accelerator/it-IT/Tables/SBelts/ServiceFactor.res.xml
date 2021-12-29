@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Fattore di servizio"/>
+  <string id="%2%" value="Carico basso"/>
+  <string id="%3%" value="Carico uniforme"/>
+  <string id="%4%" value="Carico da shock lieve"/>
+  <string id="%5%" value="Carico da shock moderato"/>
+  <string id="%6%" value="Carico da shock intenso"/>
+  <string id="%7%" value="Servizio intermittente"/>
+  <string id="%8%" value="Servizio normale"/>
+  <string id="%9%" value="Servizio continuo"/>
+  <string id="%10%" value="3-8 ore al giorno"/>
+  <string id="%11%" value="8-16 ore al giorno"/>
+  <string id="%12%" value="16-24 ore al giorno"/>
+  <string id="%13%" value="Motrice"/>
+  <string id="%14%" value="Ricevente"/>
+  <string id="%15%" value="Momento uniforme"/>
+  <string id="%16%" value="Momento elevato/non uniforme"/>
+</Resources>

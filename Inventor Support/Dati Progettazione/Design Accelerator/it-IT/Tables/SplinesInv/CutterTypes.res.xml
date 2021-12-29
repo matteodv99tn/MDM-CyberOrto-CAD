@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="DIN 5480 - Tipi di elementi di taglio"/>
+  <string id="%2%" value="Tipo"/>
+  <string id="%3%" value="Finitura dei fianchi"/>
+  <string id="%4%" value="h|.aP0|"/>
+  <string id="%5%" value="Coefficiente addendum"/>  
+  <string id="%6%" value="su"/>
+  <string id="%7%" value="Fresato"/>
+  <string id="%8%" value="A spinta"/>  
+  <string id="%9%" value="A broccia"/> 
+  <string id="%10%" value="Levigato"/>   
+  <string id="%11%" value="c|.FP0|"/>  
+  <string id="%12%" value="Coefficiente"/>      
+</Resources>

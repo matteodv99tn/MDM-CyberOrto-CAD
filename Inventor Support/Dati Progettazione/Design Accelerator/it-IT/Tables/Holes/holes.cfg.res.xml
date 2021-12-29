@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><Resources>
+  <string id="%1%" value="ANSI"/>
+  <string id="%2%" value="Vite a testa piana (82)"/>
+  <string id="%3%" value="Vite a testa piana (100)"/>
+  <string id="%4%" value="Bullone a testa esagonale"/>
+  <string id="%5%" value="Vite esagonale"/>
+  <string id="%6%" value="Vite a testa ovale"/>
+  <string id="%7%" value="Vite a testa incassata"/>
+  <string id="%8%" value="ANSI (metriche)"/>
+  <string id="%9%" value="Vite a testa piana"/>
+  <string id="%10%" value="Vite a testa esagonale arrotondata"/>
+  <string id="%11%" value="Vite a testa esagonale"/>
+  <string id="%12%" value="DIN"/>
+  <string id="%13%" value="Vite a testa svasata piana"/>
+  <string id="%14%" value="Vite a testa svasata rialzata"/>
+  <string id="%15%" value="Vite a testa esagonale"/>
+  <string id="%16%" value="Vite esagonale svasata con esagono incassato"/>
+  <string id="%17%" value="Vite con esagono incassato"/>
+  <string id="%18%" value="ISO"/>
+  <string id="%19%" value="Vite svasata con esagono incassato"/>
+  <string id="%20%" value="JIS"/>
+  <string id="%21%" value="Foro a diametro uniforme"/>
+  <string id="%22%" value="Vite a testa piana (80)"/>
+  <string id="%23%" value="Vite a testa svasata piana DIN EN ISO 2009"/>
+  <string id="%24%" value="Vite a testa svasata rialzata ISO 2010"/>
+  <string id="%25%" value="Vite a testa esagonale arrotondata DIN EN 24017"/>
+  <string id="%26%" value="Vite a testa esagonale arrotondata DIN EN 24014 (lamatura superficiale)"/>
+  <string id="%27%" value="Vite a testa svasata piana con esagono incassato DIN EN ISO 10642"/>
+  <string id="%28%" value="Vite a testa incassata DIN EN ISO 4762"/>
+  <string id="%29%" value="Vite intagliata a testa cilindrica DIN 84"/>
+  <string id="%30%" value="Vite a testa svasata piana ISO 2009/7046"/>
+  <string id="%31%" value="Vite a testa svasata rialzata ISO 2010/7047"/>
+  <string id="%32%" value="Vite a testa esagonale arrotondata ISO 24017"/>
+  <string id="%33%" value="Vite a testa esagonale arrotondata ISO 24014 (lamatura superficiale)"/>
+  <string id="%34%" value="Vite a testa svasata piana con esagono incassato ISO 10642"/>
+  <string id="%35%" value="Vite a testa incassata ISO 4762"/>
+  <string id="%36%" value="Vite intagliata a testa cilindrica ISO 1207"/>
+  <string id="%37%" value="GOST"/>
+  <string id="%38%" value="GOST 12876-67"/>
+  <string id="%39%" value="Countersunk Head GOST 12876-67"/>
+  <string id="%40%" value="Countersunk Head + Washer GOST 12876-67"/>
+  <string id="%41%" value="Hex Head Bolt / Nut GOST 12876-67"/>  
+  <string id="%42%" value="Hex Head Bolt / Nut (Reduced Size) GOST 12876-67"/>
+  <string id="%43%" value="Hex Head Bolt / Nut (Enlarged Washer) GOST 12876-67"/>
+  <string id="%44%" value="Cylindrical Head Hex Socket Screw GOST 12876-67"/>
+  <string id="%45%" value="Cylindrical Head Hex Socket Screw + Washer GOST 12876-67"/>
+  <string id="%46%" value="Cylindrical Head Slotted Screw GOST 12876-67"/>
+  <string id="%47%" value="Cylindrical Head Slotted Screw + Washer GOST 12876-67"/>
+</Resources>

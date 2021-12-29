@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Fattore di lubrificazione"/>
+  <string id="%2%" value="Velocità catena"/>
+  <string id="%3%" value="Metodo lubrificazione"/>
+  <string id="%4%" value="Lubrificazione consigliata"/>
+  <string id="%5%" value="Lubrificazione accettabile"/>
+  <string id="%6%" value="Senza difetti"/>
+  <string id="%7%" value="Insufficiente"/>
+  <string id="%8%" value="Nessuna lubrificazione"/>
+  <string id="%9%" value="Pulito"/>
+  <string id="%10%" value="Sporco"/>
+  <string id="%11%" value="Fino a 4 m/s"/>
+  <string id="%12%" value="Fino a 7 m/s"/>
+  <string id="%13%" value="Fino a 12 m/s"/>
+  <string id="%14%" value="Al di sopra di 12 m/s"/>
+  <string id="%15%" value="A goccia"/>
+  <string id="%16%" value="Lubrificazione manuale"/>
+  <string id="%17%" value="Inammissibile"/>
+  <string id="%18%" value="A bagno d'olio o a disco"/>
+  <string id="%19%" value="A goccia"/>
+  <string id="%20%" value="Forzata"/>
+  <string id="%21%" value="A nebbia d'olio, forzata"/>
+v</Resources>

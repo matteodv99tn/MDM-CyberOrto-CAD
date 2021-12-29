@@ -1,0 +1,16 @@
+<Resources>
+  <string id="%1%" value="Materiali vite (SI)"/>
+  <string id="%2%" value="Materiale"/>
+  <string id="%3%" value="Designazione materiale"/>
+  <string id="%4%" value="Coefficiente materiale vite"/>
+  <string id="%5%" value="su"/>
+  <string id="%6%" value="E"/>
+  <string id="%7%" value="Modulo di elasticità"/>
+  <string id="%8%" value="||m|"/>
+  <string id="%9%" value="Coefficiente di Poisson"/>
+  <string id="%10%" value="MPa"/>
+  <string id="%11%" value="Acciaio temprato"/>
+  <string id="%12%" value="Acciaio"/>
+  <string id="%13%" value="Ghisa"/>
+  <string id="%14%" value="k|.mat|"/>
+</Resources>

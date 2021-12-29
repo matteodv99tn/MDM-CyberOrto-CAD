@@ -1,0 +1,33 @@
+<Resources>
+<string id="%1%" value="Materiale molla"/>
+<string id="%2%" value="Designazione materiale"/>
+<string id="%3%" value="Densità"/>
+<string id="%4%" value="lb/ft^3"/>
+<string id="%5%" value="Modulo a trazione"/>
+<string id="%6%" value="psi"/>
+<string id="%7%" value="Rapporto tra sollecitazione di flessione ammissibile e resistenza massima a trazione"/>
+<string id="%8%" value="Sollecitazione di trazione massima"/>
+<string id="%9%" value="Wire armonico QQ-W-470"/>
+<string id="%10%" value="Wire in acciaio temprato in olio QQ-W-428"/>
+<string id="%11%" value="Wire in acciaio trafilato duro QQ-W-428"/>
+<string id="%12%" value="Wire in acciaio legato al cromo-vanadio"/>
+<string id="%13%" value="Wire in acciaio legato al cromo-silicio QQ-W-412"/>
+<string id="%14%" value="Acciaio inossidabile 302 e 304"/>
+<string id="%15%" value="Acciaio inossidabile 420"/>
+<string id="%16%" value="Acciaio inossidabile 431"/>
+<string id="%17%" value="Acciaio inossidabile 316"/>
+<string id="%18%" value="Acciaio inossidabile 17-7PH"/>
+<string id="%19%" value="ANSI"/>
+<string id="%20%" value="Materiale"/>
+<string id="%21%" value="Std"/>
+<string id="%22%" value="Norme"/>
+<string id="%23%" value="R|.o|"/>
+<string id="%24%" value="E"/>
+<string id="%25%" value="Coeff."/>
+<string id="%26%" value="DW"/>
+<string id="%27%" value="Diametri wire"/>
+<string id="%28%" value="in"/>
+<string id="%29%" value="||s||.ult|"/>
+<string id="%30%" value="Diametri wire e resistenza massima a trazione"/>
+<string id="%31%" value="su"/>
+</Resources>

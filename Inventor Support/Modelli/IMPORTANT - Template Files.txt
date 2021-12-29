@@ -1,0 +1,11 @@
+INFORMAZIONI IMPORTANTI PER GLI UTENTI CHE UTILIZZANO LANGUAGE PACK MULTIPLI
+
+Applicabile a:
+ - Utenti che installano Language Pack multipli e mantengono la posizione di installazione di default dei modelli (C:\Users\Public\Documents\Autodesk\Inventor release year\Templates).
+ - Utenti che archiviano e utilizzano modelli personalizzati nella cartella C:\Users\Public\Documents\Autodesk\Inventor release year\Templates.
+
+I Language Pack sono supportati da Inventor da diverse release. Per questo è possibile installare più lingue su una singola installazione di Inventor e passare dall'una all'altra tramite il collegamento al menu Start (che utilizza un parametro /language).  
+
+Sebbene i Language Pack installino file di modello localizzati, l'avvio di più lingue di Inventor non modifica in realtà i modelli utilizzati per default. 
+
+Con Inventor 2020 tutti i Language Pack sono installati e gestiti nello stesso modo. Non è più necessario copiare i modelli nella cartella principale, perché il percorso del file di modello viene aggiornato quando si cambiano le lingue. Questo semplifica l'utilizzo e la manutenzione dei modelli, che siano di default o personalizzati. 

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Fattore di shock"/>
+  <string id="%2%" value="Macchina condotta"/>
+  <string id="%3%" value="Motori elettrici"/>
+  <string id="%4%" value="Motori a combustione a bassa velocità (1 cilindro)"/>
+  <string id="%5%" value="Motori a combustione a bassa velocità (2 cilindri)"/>
+  <string id="%6%" value="Motori a combustione ad alta velocità (1 o 2 cilindri)"/>
+  <string id="%7%" value="Motori a combustione ad alta velocità (4 cilindri)"/>
+  <string id="%8%" value="Motori a combustione ad alta velocità (6 e più cilindri)"/>
+  <string id="%9%" value="Turbine idrauliche ad alta velocità"/>
+  <string id="%10%" value="Turbine idrauliche a bassa velocità"/>
+  <string id="%11%" value="Turbine a vapore"/>
+  <string id="%12%" value="Motori a vapore"/>
+  <string id="%13%" value="Output scatola ingranaggi trasmissione"/>
+  <string id="%14%" value="Torni, Trapani"/>
+  <string id="%15%" value="Fresatrici"/>
+  <string id="%16%" value="Piallatrici"/>
+  <string id="%17%" value="Limatrici, Stozzatrici"/>
+  <string id="%18%" value="Spianatrici a stiro"/>
+  <string id="%19%" value="Presse idrauliche"/>
+  <string id="%20%" value="Presse a eccentrico"/>
+  <string id="%21%" value="Presse a leva"/>
+  <string id="%22%" value="Macchine per taglio legno"/>
+  <string id="%23%" value="Telai per tessitura"/>
+  <string id="%24%" value="Telai circolari"/>
+  <string id="%25%" value="Telai per maglierie"/>
+  <string id="%26%" value="Filatoi"/>
+  <string id="%27%" value="Compressori monostadio a stantuffo"/>
+  <string id="%28%" value="Compressori a due stadi a stantuffo"/>
+  <string id="%29%" value="Compressori monostadio centrifughi"/>
+  <string id="%30%" value="Compressori a due stadi centrifughi"/>
+  <string id="%31%" value="Soffianti"/>
+  <string id="%32%" value="Ventilatori"/>
+  <string id="%33%" value="Pompe monocilindriche a stantuffo"/>
+  <string id="%34%" value="Pompe a due cilindri a stantuffo"/>
+  <string id="%35%" value="Pompe centrifughe"/>
+  <string id="%36%" value="Molazze a più supporti"/>
+  <string id="%37%" value="Treni continui"/>
+  <string id="%38%" value="Frantoi"/>
+  <string id="%39%" value="Molazze"/>
+  <string id="%40%" value="Mulini rotanti"/>
+  <string id="%41%" value="Mulini a martelli"/>
+  <string id="%42%" value="Calandre di trasmissione"/>
+  <string id="%43%" value="Calandre dirette"/>
+  <string id="%44%" value="Sfibratori per cellulosa"/>
+  <string id="%45%" value="Vibrovagli"/>
+  <string id="%46%" value="Macchine di battitura"/>
+  <string id="%47%" value="Mescolatori rotanti"/>
+  <string id="%48%" value="Escavatrici"/>
+  <string id="%49%" value="Coltivatori a lame rotanti"/>
+  <string id="%50%" value="Mescolatori"/>
+  <string id="%51%" value="Convogliatori per materiali incoerenti"/>
+  <string id="%52%" value="Trasportatori per materiale"/>
+  <string id="%53%" value="Dispositivi di alzata"/>
+  <string id="%54%" value="Carrelli elevatori a forca"/>
+  <string id="%55%" value="Macchine per sollevamento da miniera"/>
+  <string id="%56%" value="Generatori - grandi"/>
+  <string id="%57%" value="Generatori - piccoli"/>
+  <string id="%58%" value="Input scatola ingranaggi trasmissione"/>
+</Resources>

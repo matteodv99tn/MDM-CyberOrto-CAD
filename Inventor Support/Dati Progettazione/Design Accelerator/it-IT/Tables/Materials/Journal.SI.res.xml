@@ -1,0 +1,12 @@
+<Resources>
+  <string id="%1%" value="Materiale perno di banco"/>
+  <string id="%2%" value="Designazione materiale"/>
+  <string id="%3%" value="Pressione ammissibile"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Profilato di acciaio"/>
+  <string id="%6%" value="Acciaio legato di qualità superiore"/>
+  <string id="%7%" value="Acciaio fuso"/>
+  <string id="%8%" value="Ghisa grigia fusa"/>
+  <string id="%9%" value="Materiale"/>
+  <string id="%10%" value="||s||.al|"/>
+</Resources>

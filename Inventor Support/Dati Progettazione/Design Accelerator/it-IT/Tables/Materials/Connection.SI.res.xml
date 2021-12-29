@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Materiale (SI)"/>
+  <string id="%2%" value="Designazione materiale"/>
+  <string id="%3%" value="Sollecitazione di trazione massima"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Pressione ammissibile"/>
+  <string id="%6%" value="Sollecitazione a taglio ammissibile"/>
+  <string id="%7%" value="Profilato di acciaio"/>
+  <string id="%8%" value="Acciaio al carbonio"/>
+  <string id="%9%" value="Acciaio legato e affinato"/>
+  <string id="%10%" value="Acciaio temprato in superficie"/>
+  <string id="%11%" value="Acciaio cementato"/>
+  <string id="%12%" value="Ghisa con grafite lamellare"/>
+  <string id="%13%" value="Ghisa con grafite sferoidale"/>
+  <string id="%14%" value="Lega di alluminio"/>
+  <string id="%15%" value="Materiale"/>
+  <string id="%16%" value="S|.ult|"/>
+  <string id="%17%" value="p|.A|"/>
+  <string id="%18%" value="||t||.Al|"/>
+</Resources>

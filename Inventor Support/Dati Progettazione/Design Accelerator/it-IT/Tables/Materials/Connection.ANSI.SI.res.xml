@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Materiale scanalatura"/>
+  <string id="%2%" value="Designazione materiale"/>
+  <string id="%3%" value="Numero durezza Brinell"/>
+  <string id="%4%" value="su"/>
+  <string id="%5%" value="Numero durezza Vickers (piramide)"/>
+  <string id="%6%" value="Sollecitazione di compressione ammissibile"/>
+  <string id="%7%" value="MPa"/>
+  <string id="%8%" value="Sollecitazione a taglio ammissibile"/>
+  <string id="%9%" value="Acciaio"/>
+  <string id="%10%" value="Acciaio temprato in superficie"/>
+  <string id="%11%" value="Acciaio da cementazione e tempra"/>
+  <string id="%12%" value="Materiale"/>
+  <string id="%13%" value="B|.hn|"/>
+  <string id="%14%" value="HV"/>
+  <string id="%15%" value="S|.c|"/>
+  <string id="%16%" value="S|.s|"/>
+  <string id="%17%" value="Sollecitazione di trazione ammissibile"/>
+  <string id="%18%" value="S|.t|"/>
+</Resources>

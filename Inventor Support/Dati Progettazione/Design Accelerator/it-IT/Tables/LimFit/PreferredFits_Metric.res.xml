@@ -1,0 +1,19 @@
+<Resources>
+  <string id="%1%" value="Accoppiamento preferito (sistema metrico)"/>
+  <string id="%2%" value="Nome accoppiamento"/>
+  <string id="%3%" value="Transizione=1 Interferenza=2 Gioco=3"/>
+  <string id="%4%" value="Foro-base=1 Albero-base=2"/>
+  <string id="%5%" value="Descrizione di utilizzo dell'accoppiamento"/>
+  <string id="%10%" value="Connessione a pressione fissa con gioco impercettibile o interferenza ridotta\nAssemblaggio mediante forza ridotta\nUtilizzo per protezioni di motori elettrici su alberi, ingranaggi o bulloni calibrati."/>
+  <string id="%11%" value="Connessione a pressione costante con gioco ridotto o interferenza ridotta\nAssemblaggio mediante martello di gomma o di rame\n Utilizzo per disassemblaggio di connessioni di pressione per mozzi di ingranaggi, pulegge, ecc."/>
+  <string id="%12%" value="Connessione a pressione con spostamento, con gioco ridotto e interferenza impercettibile\nAssemblaggio a mano\nUtilizzo per il facile disassemblaggio di giunti di ingranaggi, pulegge, manicotti ecc."/>
+  <string id="%13%" value="Connessione a pressione con interferenza elevata\nAssemblaggio con forza elevata a differenti\ntemperature dei componenti\nUtilizzo per mozzi di ingranaggi o flange connesse all'albero."/>
+  <string id="%14%" value="Connessione a pressione con interferenza media\nAssemblaggio con forza elevata. Differenti\ntemperature di foro e albero.\nUtilizzo per mozzi di dischi di frizione o manicotti a sfere."/>  
+  <string id="%15%" value="Connessione di accoppiamento di taglio con gioco impercettibile\nAssemblaggio senza forza maggiore\nI componenti possono essere spostati manualmente dopo la lubrificazione\nRuote sostituibili, anelli di arresto, convogliatore circolare."/>
+  <string id="%16%" value="Connessione di accoppiamento di taglio\nAssemblaggio senza forza maggiore\nI componenti possono essere spostati manualmente dopo la lubrificazione\nFacile disassemblaggio di parti, anello di espansione\nComponenti di machine agricole fissati ad alberi con perni,\nviti o giunti con guaina."/>
+  <string id="%17%" value="Connessione di accoppiamento rotante con gioco ridottissimo\nAssemblaggio senza gioco evidente\nIngranaggi scorrevoli e ruote d'innesto o aste scorrevoli nei cuscinetti."/>
+  <string id="%18%" value="Connessioni di accoppiamento rotante\nAssemblaggio con gioco evidente\nConnessioni di accoppiamento principali per macchine industriali\nConnessioni di accoppiamento di aste scorrevoli o alberi a gomiti."/>
+  <string id="%19%" value="Connessioni di accoppiamento rotante\nAssemblaggio con gioco maggiore\nConnessioni di accoppiamento per lunghi alberi assemblati, ad esempio per macchine agricole."/>
+  <string id="%20%" value="Connessione di accoppiamento rotante con gioco considerevole\nAssemblaggio con gioco considerevole\nPiù alberi assemblati di macchine industriali e macchine a pistoni\nAlberi derivanti da barre circolari in acciaio fuso."/>
+  <string id="%21%" value="Connessioni di accoppiamento con gioco notevole per parti con tolleranze elevate\nAssembaggio con gioco massimo\nTappi rotanti, bulloni, perni di grillo delle aste dei freni\nConnessioni di accoppiamento per parti da saldare."/>
+</Resources>

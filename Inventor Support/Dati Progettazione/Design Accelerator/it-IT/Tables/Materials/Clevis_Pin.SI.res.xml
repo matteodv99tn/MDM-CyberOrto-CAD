@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="Materiale perno"/>
+  <string id="%2%" value="Designazione materiale"/>
+  <string id="%3%" value="Pressione di flessione ammissibile"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Sollecitazione a taglio ammissibile"/>
+  <string id="%7%" value="Acciaio gr. 37; 42; 4D"/>
+  <string id="%8%" value="Acciaio 11 500; 5D"/>
+  <string id="%9%" value="Acciaio 11 600; 12 040; 12 050; 8G"/>
+  <string id="%10%" value="Acciaio 11.700"/>
+  <string id="%11%" value="Materiale"/>
+  <string id="%12%" value="||s||.BA|"/>
+  <string id="%13%" value="||t||.Al|"/>
+</Resources>

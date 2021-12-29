@@ -1,0 +1,19 @@
+<Resources>
+  <string id="%1%" value="Materiale perno di banco"/>
+  <string id="%2%" value="Designazione materiale"/>
+  <string id="%3%" value="Modulo di elasticità"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Coefficiente di Poisson"/>
+  <string id="%6%" value="Coefficiente di espansività termica"/>
+  <string id="%7%" value="Acciaio a basso tenore di carbonio"/>
+  <string id="%8%" value="Ghisa grigia fusa"/>
+  <string id="%9%" value="Leghe di alluminio"/>
+  <string id="%10%" value="Leghe di magnesio"/>
+  <string id="%11%" value="Bronzo stagnato"/>
+  <string id="%12%" value="Bronzo di alluminio"/>
+  <string id="%13%" value="Ottone"/>
+  <string id="%14%" value="Materiale"/>
+  <string id="%15%" value="E"/>
+  <string id="%16%" value="||m|"/>
+  <string id="%17%" value="CoeffT"/>
+</Resources>

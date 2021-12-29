@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="Fattore di applicazione"/>
+  <string id="%2%" value="Shock macchina conduttrice"/>
+  <string id="%3%" value="Shock macchina condotta"/>
+  <string id="%4%" value="Fluente"/>
+  <string id="%5%" value="Shock lievi"/>
+  <string id="%6%" value="Shock moderati"/>
+  <string id="%7%" value="Shock intensi"/>
+</Resources>

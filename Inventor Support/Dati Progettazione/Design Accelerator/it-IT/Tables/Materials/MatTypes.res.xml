@@ -1,0 +1,29 @@
+<Resources>
+  <string id="%1%" value="Tipi materiale"/>
+  <string id="%2%" value="Designazione materiale"/>
+  <string id="%3%" value="Modulo di elasticità"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="Modulo di rigidità"/>
+  <string id="%6%" value="Coefficiente di Poisson"/>
+  <string id="%7%" value="Densità"/>
+  <string id="%8%" value="lb/ft^3"/>
+  <string id="%9%" value="Ghisa grigia fusa"/>
+  <string id="%10%" value="Ghisa malleabile"/>
+  <string id="%11%" value="Acciaio"/>
+  <string id="%12%" value="Acciaio fuso"/>
+  <string id="%13%" value="Acciaio, al nichel"/>
+  <string id="%14%" value="Acciaio inossidabile"/>
+  <string id="%15%" value="Ottone"/>
+  <string id="%16%" value="Bronzo"/>
+  <string id="%17%" value="Alluminio, lega"/>
+  <string id="%18%" value="Leghe di magnesio"/>
+  <string id="%19%" value="Rame"/>
+  <string id="%20%" value="Materiale"/>
+  <string id="%21%" value="E"/>
+  <string id="%22%" value="G"/>
+  <string id="%23%" value="||m|"/>
+  <string id="%24%" value="||r|"/>
+  <string id="%25%" value="su"/>
+  <string id="%26%" value="S|.y|"/>
+  <string id="%27%" value="Resistenza allo snervamento"/>
+</Resources>

@@ -1,0 +1,41 @@
+<Resources>
+<string id="%1%" value="Materiale molla"/>
+<string id="%2%" value="Designazione materiale"/>
+<string id="%3%" value="Densità"/>
+<string id="%4%" value="kg/m^3"/>
+<string id="%5%" value="Modulo a taglio"/>
+<string id="%6%" value="MPa"/>
+<string id="%7%" value="Rapporto tra sollecitazione di torsione ammissibile e resistenza massima a trazione"/>
+<string id="%8%" value="Sollecitazione di trazione massima"/>
+<string id="%9%" value="Trafilato e brevettato - Acciaio al carbonio - Prima classe"/>
+<string id="%10%" value="Trafilato e brevettato - Acciaio al carbonio - Seconda classe"/>
+<string id="%11%" value="Trafilato e brevettato - Acciaio al carbonio - Terza classe"/>
+<string id="%12%" value="Trafilato e brevettato - Acciaio al carbonio - Quarta classe"/>
+<string id="%13%" value="Trafilato e brevettato - Acciaio al carbonio - Quinta classe"/>
+<string id="%14%" value="Acciaio al carbonio per wire trattato termicamente"/>
+<string id="%15%" value="Wire trattato termicamente - Acciaio Si-Cr (14 260)"/>
+<string id="%16%" value="Wire ricotto - Acciaio Si-Cr (14 260)"/>
+<string id="%17%" value="Wire trattato termicamente - Acciaio Mn-Cr-V (15 260)"/>
+<string id="%18%" value="Wire ricotto - Acciaio Mn-Cr-V (15 260)"/>
+<string id="%19%" value="Wire trafilato - Acciaio inossidabile Cr-Ni (17 242)"/>
+<string id="%20%" value="Bronzo stagnato trafilato (42 3016 e 42 3018)"/>
+<string id="%21%" value="Ottone trafilato (42 3210 e 42 3213)"/>
+<string id="%22%" value="Materiale"/>
+<string id="%23%" value="Std"/>
+<string id="%24%" value="Norme"/>
+<string id="%25%" value="R|.o|"/>
+<string id="%26%" value="G"/>
+<string id="%27%" value="Coeff."/>
+<string id="%28%" value="DW"/>
+<string id="%29%" value="Diametri wire"/>
+<string id="%30%" value="mm"/>
+<string id="%31%" value="||s||.ult|"/>
+<string id="%32%" value="ISO"/>
+<string id="%33%" value="DIN"/>
+<string id="%34%" value="Diametri wire e resistenza massima a trazione"/>
+<string id="%35%" value="su"/>
+<string id="%36%" value="Wire in acciaio - Classe 1"/>
+<string id="%37%" value="Wire in acciaio - Classe 2 e 2A"/>
+<string id="%38%" value="Wire in acciaio - Classe 3"/>
+<string id="%39%" value="GOST"/>
+</Resources>

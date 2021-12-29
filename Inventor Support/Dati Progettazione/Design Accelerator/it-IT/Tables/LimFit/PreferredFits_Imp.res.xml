@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Accoppiamento preferito (sistema imperiale)"/>
+  <string id="%2%" value="Nome accoppiamento"/>
+  <string id="%3%" value="Transizione=1 Interferenza=2 Gioco=3"/>
+  <string id="%4%" value="Foro-base=1 Albero-base=2"/>
+  <string id="%5%" value="Descrizione di utilizzo dell'accoppiamento"/>
+  <string id="%10%" value="Accoppiamenti transizione posizionale\nUna via di mezzo tra accoppiamenti gioco e accoppiamenti interferenza.\nUtilizzati per applicazioni in cui è importante la precisione."/>
+  <string id="%11%" value="Accoppiamenti interferenza posizionale\nUtilizzati quando la precisione del posizionamento è di primaria importanza.\nNon destinati a parti progettate per trasmettere carichi funzionali da\n una parte all'altra mediante la tenuta dell'accoppiamento."/>
+  <string id="%12%" value="Accoppiamenti bloccati alla pressa leggeri\nAdatti per le parti normali in acciaio o per accoppiamenti bloccati forzati a caldo su sezioni leggere."/>
+  <string id="%13%" value="Accoppiamenti bloccati forzati alla pressa\nAdatti per le parti in acciaio più pesanti o per accoppiamenti bloccati forzati a caldo in sezioni medie."/>
+  <string id="%14%" value="Accoppiamenti bloccati alla pressa\nAdatti per le parti che possono essere sottoposte a elevate sollecitazioni oppure per accoppiamenti bloccati forzati a caldo in cui\n le elevate forze di pressione sono impraticabili."/>
+  <string id="%15%" value="Accoppiamenti scorrevoli precisi\nDestinati all'accurato posizionamento delle parti\nche devono essere inserite nell'assieme senza gioco percettibile."/>
+  <string id="%16%" value="Accoppiamenti scorrevoli\nDestinati a un posizionamento accurato.\nLe parti possono muoversi e ruotare facilmente ma non possono scorrere liberamente."/>
+  <string id="%17%" value="Accoppiamenti liberi di precisione\nDestinati a lavori di precisione a basse velocità e\npressioni elevate del perno di banco leggero."/>
+  <string id="%18%" value="Accoppiamenti liberi precisi\nDestinati ad accoppiamenti liberi su macchinari\ndi precisione con velocità di superficie e pressione del perno di banco moderate."/>
+  <string id="%19%" value="Accoppiamenti liberi medi\nDestinati a velocità di scorrimento più elevate o pressioni elevate del perno di banco."/>
+  <string id="%20%" value="Accoppiamenti liberi larghi\nDestinati all'uso nei casi in cui la precisione non è essenziale o\n in cui è probabile la presenza di variazioni di temperatura elevate."/>
+  <string id="%21%" value="Accoppiamenti liberi amplissimi\nDestinati all'uso nei casi in cui possono essere necessarie ampie\n tolleranze commerciali, insieme a una tolleranza sul membro esterno."/>
+  <string id="%22%" value="Accoppiamenti gioco posizionale\nDestinati alle parti che normalmente sono fisse\n ma che possono essere montate o smontate liberamente."/>
+</Resources>

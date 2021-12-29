@@ -1,0 +1,12 @@
+<Resources>
+  <string id="%1%" value="Durata utile di servizio desiderata [milioni di rivoluzioni]"/>
+  <string id="%2%" value="Velocità giri/minuto bassa, utilizzata raramente"/>
+  <string id="%3%" value="Velocità giri/minuto bassa, non sempre utilizzata appieno"/>
+  <string id="%4%" value="Velocità giri/minuto bassa, utilizzata appieno"/>
+  <string id="%5%" value="Velocità giri/minuto media, utilizzata raramente"/>
+  <string id="%6%" value="Velocità giri/minuto media, non sempre utilizzata appieno"/>
+  <string id="%7%" value="Velocità giri/minuto media, utilizzata appieno"/>
+  <string id="%8%" value="Velocità giri/minuto alta, utilizzata raramente"/>
+  <string id="%9%" value="Velocità giri/minuto alta, non sempre utilizzata appieno"/>
+  <string id="%10%" value="Velocità giri/minuto alta, utilizzata appieno"/>
+</Resources>

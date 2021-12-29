@@ -1,0 +1,7 @@
+<Resources>
+  <string id="%1%" value="Fattore di servizio"/>
+  <string id="%2%" value="Caricamento statico"/>
+  <string id="%3%" value="Caricamento ripetuto"/>
+  <string id="%4%" value="Caricamento alternato"/>
+  <string id="%5%" value="Fattore"/>
+</Resources>

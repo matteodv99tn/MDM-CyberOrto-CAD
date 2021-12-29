@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="Materiale giunto"/>
+  <string id="%2%" value="Designazione materiale"/>
+  <string id="%3%" value="Resistenza a trazione giunto"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="Resistenza a taglio giunto"/>
+  <string id="%6%" value="Saldatura in stagno"/>
+  <string id="%7%" value="Saldatura in rame"/>
+  <string id="%8%" value="Saldatura in argento"/>
+  <string id="%9%" value="Materiale"/>
+  <string id="%10%" value="S||.s|"/>
+  <string id="%11%" value="S||.t|"/>
+</Resources>

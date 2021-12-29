@@ -1,0 +1,17 @@
+<Resources>
+  <string id="%1%" value="Fattore di attrito"/>
+  <string id="%2%" value="Materiale"/>
+  <string id="%3%" value="Non lubrificato"/>
+  <string id="%4%" value="Lubrificato"/>
+  <string id="%5%" value="acciaio - acciaio"/>
+  <string id="%6%" value="acciaio - ghisa"/>
+  <string id="%7%" value="acciaio - ottone"/>
+  <string id="%8%" value="acciaio - ottone"/>
+  <string id="%9%" value="ghisa - ghisa"/>
+  <string id="%10%" value="ghisa - bronzo"/>
+  <string id="%11%" value="bronzo - bronzo"/>
+  <string id="%12%" value="alluminio - alluminio"/>
+  <string id="%13%" value="rame - rame"/>
+  <string id="%14%" value="acciaio - plexiglas"/>
+  <string id="%15%" value="plexiglas - plexiglas"/>
+</Resources>

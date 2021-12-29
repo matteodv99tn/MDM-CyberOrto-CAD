@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="Fattore di distribuzione del carico per allineamento non corretto delle scanalature flessibili"/>
+  <string id="%2%" value="Allineamento non corretto, pollici per pollice"/>
+  <string id="%3%" value="Fattore di distribuzione del carico, Km"/>
+  <string id="%4%" value="Larghezza faccia 1/2 pollici"/>
+  <string id="%5%" value="Larghezza faccia 1 pollice"/>
+  <string id="%6%" value="Larghezza faccia 2 pollici"/>
+  <string id="%7%" value="Larghezza faccia 4 pollici"/>
+</Resources>

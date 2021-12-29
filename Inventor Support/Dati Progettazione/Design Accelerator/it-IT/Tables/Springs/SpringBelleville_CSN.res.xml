@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="Molla Belleville - CSN"/>
+  <string id="%2%" value="Nome"/>
+  <string id="%3%" value="Designazione molla"/>
+  <string id="%4%" value="D"/>
+  <string id="%5%" value="Diametro esterno"/>
+  <string id="%6%" value="mm"/>
+  <string id="%7%" value="Diametro interno"/>
+  <string id="%8%" value="d"/>
+  <string id="%9%" value="Spessore materiale"/>
+  <string id="%10%" value="t"/>
+  <string id="%11%" value="Altezza senza carico"/>
+  <string id="%12%" value="H"/>
+</Resources>

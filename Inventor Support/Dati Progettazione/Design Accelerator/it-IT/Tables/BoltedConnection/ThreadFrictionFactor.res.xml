@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="Fattore di attrito filettatura"/>
+  <string id="%2%" value="Superficie filettatura"/>
+  <string id="%3%" value="Non lubrificato"/>
+  <string id="%4%" value="Lubrificato"/>
+  <string id="%5%" value="rivestimento al fosfato o nero"/>
+  <string id="%6%" value="rivestimento in zinco galvanico"/>
+  <string id="%7%" value="cadmiatura"/>
+</Resources>

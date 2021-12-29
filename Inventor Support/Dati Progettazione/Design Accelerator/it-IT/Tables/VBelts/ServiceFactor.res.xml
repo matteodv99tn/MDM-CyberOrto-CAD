@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Fattore di servizio"/>
+  <string id="%2%" value="Servizio leggero"/>
+  <string id="%3%" value="Servizio normale"/>
+  <string id="%4%" value="Servizio pesante"/>
+  <string id="%5%" value="Servizio molto pesante"/>
+  <string id="%6%" value="Funzionamento intermittente"/>
+  <string id="%7%" value="Funzionamento normale"/>
+  <string id="%8%" value="Funzionamento continuo"/>
+  <string id="%9%" value="3-5 ore giornaliere"/>
+  <string id="%10%" value="8-10 ore giornaliere"/>
+  <string id="%11%" value="16-24 ore giornaliere"/>
+  <string id="%12%" value="Macchina motrice"/>
+  <string id="%13%" value="Macchina condotta"/>
+  <string id="%14%" value="Momento normale"/>
+  <string id="%15%" value="Momento elevato"/>
+</Resources>

@@ -1,0 +1,11 @@
+<Resources>
+  <string id="%1%" value="Fattore di attrito"/>
+  <string id="%2%" value="Materiale"/>
+  <string id="%3%" value="f"/>
+  <string id="%4%" value="Stampato"/>
+  <string id="%5%" value="Intrecciato"/>
+  <string id="%6%" value="Metallo sinterizzato"/>
+  <string id="%7%" value="Sughero"/>
+  <string id="%8%" value="Legno"/>
+  <string id="%9%" value="Ghisa, acciaio duro"/>
+</Resources>

@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="Materiale scanalatura"/>
+  <string id="%2%" value="Designazione materiale"/>
+  <string id="%3%" value="Resistenza a trazione massima ammissibile"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="Acciaio inossidabile"/>
+  <string id="%6%" value="Materiale"/>
+  <string id="%7%" value="S|.u|"/>
+  <string id="%8%" value="Durezza"/>
+  <string id="%9%" value="HRC"/>
+  <string id="%10%" value="Durezza dei lati del dente"/>
+  <string id="%11%" value="su"/>
+</Resources>

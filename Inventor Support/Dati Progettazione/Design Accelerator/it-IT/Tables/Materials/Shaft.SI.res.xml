@@ -1,0 +1,15 @@
+<Resources>
+  <string id="%1%" value="Materiale albero"/>
+  <string id="%2%" value="Designazione materiale"/>
+  <string id="%3%" value="Pressione ammissibile"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Sollecitazione di torsione ammissibile"/>
+  <string id="%6%" value="Acciaio gr. 37; 42; 4D"/>
+  <string id="%7%" value="Acciaio legato di qualità superiore"/>
+  <string id="%8%" value="Acciaio fuso"/>
+  <string id="%9%" value="Ghisa grigia fusa"/>
+  <string id="%10%" value="Bronzo"/>
+  <string id="%11%" value="Materiale"/>
+  <string id="%12%" value="||s||.Al|"/>
+  <string id="%13%" value="||t||.AlT|"/>
+</Resources>

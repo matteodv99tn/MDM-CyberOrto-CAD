@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="Modificatore proporzione pignone"/>
+  <string id="%2%" value="Pignoni a contatto con rapporto di offset inferiore a 0,175"/>
+  <string id="%3%" value="Pignoni a contatto con rapporto di offset superiore a 0,175"/>
+  <string id="%4%" value="Il rapporto di offset è la distanza unitaria tra la faccia intermedia del pignone dalla linea d'asse della distanza del cuscinetto"/>
+</Resources>
