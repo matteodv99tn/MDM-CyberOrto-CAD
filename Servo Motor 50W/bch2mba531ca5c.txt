@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-15062021-057888";"";
+"REFERENCE";"BCH2MBA531CA5C";"";
+"TraceParts.PartTitle";"servo motor BCH, 40mm, 50W, no oil seal, w key, leads con";"";
+"TraceParts.InstanceId";"90-15062021-0578882N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"servo motor BCH, 40mm, 50W, no oil seal, w key, leads con";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Schneider Electric";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC:90-15062021-057888";"";
