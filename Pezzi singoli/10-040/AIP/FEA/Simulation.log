@@ -1,0 +1,9 @@
+﻿Studio Analisi statica:torsione avviato: 18/08/2022, 09:07:24
+Numero di configurazioni: 1
+Mesh di default: 237659 elementi, 454287 nodi
+Tempo di soluzione 167s
+Livello convergenza: 20%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  3.07  on element 166358 completato: 18/08/2022, 09:21:41
+Tempo totale 0:14:17
+
