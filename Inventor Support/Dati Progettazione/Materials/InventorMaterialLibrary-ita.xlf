@@ -6075,11 +6075,11 @@
       </trans-unit>
       <trans-unit id="MaterialInv_014">
         <source>MaterialInv_014</source>
-        <target>Rame, Lega</target>
+        <target>Rame, lega</target>
       </trans-unit>
       <trans-unit id="MaterialInv_018">
         <source>MaterialInv_018</source>
-        <target>Ferro, ferro</target>
+        <target>Ferro, Grigio</target>
       </trans-unit>
       <trans-unit id="MaterialInv_020">
         <source>MaterialInv_020</source>
@@ -7519,7 +7519,7 @@
       </trans-unit>
       <trans-unit id="PhysicalMetal_115">
         <source>PhysicalMetal_115</source>
-        <target>Ferro - ferro</target>
+        <target>Ferro - Grigio</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_117">
         <source>PhysicalMetal_117</source>
@@ -21639,7 +21639,7 @@
       </trans-unit>
       <trans-unit id="Acetal Resin, Black">
         <source>Acetal Resin, Black</source>
-        <target>Resina acetalica , Nero</target>
+        <target>Resina acetalica, nero</target>
       </trans-unit>
       <trans-unit id="Acetal Resin, White">
         <source>Acetal Resin, White</source>
@@ -21647,7 +21647,7 @@
       </trans-unit>
       <trans-unit id="Alloy Steel">
         <source>Alloy Steel</source>
-        <target>Acciaio legato</target>
+        <target>Lega di acciaio</target>
       </trans-unit>
       <trans-unit id="Aluminum-6061">
         <source>Aluminum-6061</source>

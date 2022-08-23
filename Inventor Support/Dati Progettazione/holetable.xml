@@ -16,7 +16,7 @@
       <Item Language="1040" String="TABELLA FORO"/>
       <Item Language="3082" String="TABLA DE AGUJEROS"/>
       <Item Language="1036" String="TABLE DE PERCAGE"/>
-      <Item Language="1029" String="TABULKA OTVORŮ"/>
+      <Item Language="1029" String="TABULKA DĚR"/>
       <Item Language="1049" String="ТАБЛИЦА ОТВЕРСТИЙ"/>
       <Item Language="2052" String="孔参数表"/>
       <Item Language="1028" String="孔表格"/>
@@ -43,7 +43,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -60,7 +60,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -150,7 +150,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -166,8 +166,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -332,7 +332,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -351,7 +351,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -364,7 +364,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -449,7 +449,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -467,7 +467,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -528,7 +528,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -545,7 +545,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -647,7 +647,7 @@
     <SubStyle Collection="Text" Language="1033" Type="HeadingTextStyle">Note Text (ANSI)</SubStyle>
     <SubStyle Collection="Text" Language="1033" Type="TitleTextStyle">Note Text (ANSI)</SubStyle>
     <Name Description="" Language="1028">孔表格 - mm (ANSI)</Name>
-    <Name Description="" Language="1029">Tabulka otvorů - mm (ANSI)</Name>
+    <Name Description="" Language="1029">Tabulka děr - mm (ANSI)</Name>
     <Name Description="" Language="1031">Bohrungstabelle - mm (ANSI)</Name>
     <Name Description="" Language="1033">Hole Table - mm (ANSI)</Name>
     <Name Description="" Language="1036">Table de perçage - mm (ANSI)</Name>
@@ -673,7 +673,7 @@
       <Item Language="1040" String="TABELLA FORI"/>
       <Item Language="3082" String="TABLA DE AGUJEROS"/>
       <Item Language="1036" String="TABLE DE PERCAGE"/>
-      <Item Language="1029" String="TABULKA OTVORŮ"/>
+      <Item Language="1029" String="TABULKA DĚR"/>
       <Item Language="1049" String="ТАБЛИЦА ОТВЕРСТИЙ"/>
       <Item Language="2052" String="孔参数表"/>
       <Item Language="1028" String="孔表格"/>
@@ -700,7 +700,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -717,7 +717,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -807,7 +807,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -823,8 +823,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -989,7 +989,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -1008,7 +1008,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -1021,7 +1021,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -1106,7 +1106,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -1124,7 +1124,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -1185,7 +1185,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -1202,7 +1202,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -1304,7 +1304,7 @@
     <SubStyle Collection="Text" Language="1033" Type="HeadingTextStyle">Note Text (ANSI)</SubStyle>
     <SubStyle Collection="Text" Language="1033" Type="TitleTextStyle">Note Text (ANSI)</SubStyle>
     <Name Description="" Language="1028">孔表格 (ANSI)</Name>
-    <Name Description="" Language="1029">Tabulka otvorů (ANSI)</Name>
+    <Name Description="" Language="1029">Tabulka děr (ANSI)</Name>
     <Name Description="" Language="1031">Bohrungstabelle (ANSI)</Name>
     <Name Description="" Language="1033">Hole Table (ANSI)</Name>
     <Name Description="" Language="1036">Table de perçage (ANSI)</Name>
@@ -1330,7 +1330,7 @@
       <Item Language="1040" String="TABELLA FORI"/>
       <Item Language="3082" String="TABLA DE AGUJEROS"/>
       <Item Language="1036" String="TABLE DE PERCAGE"/>
-      <Item Language="1029" String="TABULKA OTVORŮ"/>
+      <Item Language="1029" String="TABULKA DĚR"/>
       <Item Language="1049" String="ТАБЛИЦА ОТВЕРСТИЙ"/>
       <Item Language="2052" String="孔参数表"/>
       <Item Language="1028" String="孔表格"/>
@@ -1357,7 +1357,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -1374,7 +1374,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -1464,7 +1464,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -1480,8 +1480,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -1646,7 +1646,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -1665,7 +1665,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -1678,7 +1678,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -1763,7 +1763,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -1781,7 +1781,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -1842,7 +1842,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -1859,7 +1859,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -1961,7 +1961,7 @@
     <SubStyle Collection="Text" Language="1033" Type="HeadingTextStyle">Note Text (ISO)</SubStyle>
     <SubStyle Collection="Text" Language="1033" Type="TitleTextStyle">Note Text (ISO)</SubStyle>
     <Name Description="" Language="1028">孔表格 (BSI)</Name>
-    <Name Description="" Language="1029">Tabulka otvorů (BSI)</Name>
+    <Name Description="" Language="1029">Tabulka děr (BSI)</Name>
     <Name Description="" Language="1031">Bohrungstabelle (BSI)</Name>
     <Name Description="" Language="1033">Hole Table (BSI)</Name>
     <Name Description="" Language="1036">Table de perçage (BSI)</Name>
@@ -1987,7 +1987,7 @@
       <Item Language="1040" String="TABELLA FORI"/>
       <Item Language="3082" String="TABLA DE AGUJEROS"/>
       <Item Language="1036" String="TABLE DE PERCAGE"/>
-      <Item Language="1029" String="TABULKA OTVORŮ"/>
+      <Item Language="1029" String="TABULKA DĚR"/>
       <Item Language="1049" String="ТАБЛИЦА ОТВЕРСТИЙ"/>
       <Item Language="2052" String="孔参数表"/>
       <Item Language="1028" String="孔表格"/>
@@ -2014,7 +2014,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -2031,7 +2031,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -2121,7 +2121,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -2137,8 +2137,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -2303,7 +2303,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -2322,7 +2322,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -2335,7 +2335,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -2420,7 +2420,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -2438,7 +2438,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -2499,7 +2499,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -2516,7 +2516,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -2618,7 +2618,7 @@
     <SubStyle Collection="Text" Language="1033" Type="HeadingTextStyle">Note Text (DIN)</SubStyle>
     <SubStyle Collection="Text" Language="1033" Type="TitleTextStyle">Note Text (DIN)</SubStyle>
     <Name Description="" Language="1028">孔表格 (DIN)</Name>
-    <Name Description="" Language="1029">Tabulka otvorů (DIN)</Name>
+    <Name Description="" Language="1029">Tabulka děr (DIN)</Name>
     <Name Description="" Language="1031">Bohrungstabelle (DIN)</Name>
     <Name Description="" Language="1033">Hole Table (DIN)</Name>
     <Name Description="" Language="1036">Table de perçage (DIN)</Name>
@@ -2644,7 +2644,7 @@
       <Item Language="1040" String="TABELLA FORI"/>
       <Item Language="3082" String="TABLA DE AGUJEROS"/>
       <Item Language="1036" String="TABLE DE PERCAGE"/>
-      <Item Language="1029" String="TABULKA OTVORŮ"/>
+      <Item Language="1029" String="TABULKA DĚR"/>
       <Item Language="1049" String="ТАБЛИЦА ОТВЕРСТИЙ"/>
       <Item Language="2052" String="孔参数表"/>
       <Item Language="1028" String="孔表格"/>
@@ -2671,7 +2671,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -2688,7 +2688,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -2778,7 +2778,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -2794,8 +2794,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -2960,7 +2960,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -2979,7 +2979,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -2992,7 +2992,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -3077,7 +3077,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -3095,7 +3095,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -3156,7 +3156,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -3173,7 +3173,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -3275,7 +3275,7 @@
     <SubStyle Collection="Text" Language="1033" Type="HeadingTextStyle">Note Text (ISO)</SubStyle>
     <SubStyle Collection="Text" Language="1033" Type="TitleTextStyle">Note Text (ISO)</SubStyle>
     <Name Description="" Language="1028">孔表格 (GB)</Name>
-    <Name Description="" Language="1029">Tabulka otvorů (GB)</Name>
+    <Name Description="" Language="1029">Tabulka děr (GB)</Name>
     <Name Description="" Language="1031">Bohrungstabelle (GB)</Name>
     <Name Description="" Language="1033">Hole Table (GB)</Name>
     <Name Description="" Language="1036">Table de perçage (GB)</Name>
@@ -3301,7 +3301,7 @@
       <Item Language="1040" String="TABELLA FORI"/>
       <Item Language="3082" String="TABLA DE AGUJEROS"/>
       <Item Language="1036" String="TABLE DE PERCAGE"/>
-      <Item Language="1029" String="TABULKA OTVORŮ"/>
+      <Item Language="1029" String="TABULKA DĚR"/>
       <Item Language="1049" String="ТАБЛИЦА ОТВЕРСТИЙ"/>
       <Item Language="2052" String="孔参数表"/>
       <Item Language="1028" String="孔表格"/>
@@ -3328,7 +3328,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -3345,7 +3345,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -3435,7 +3435,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -3451,8 +3451,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -3617,7 +3617,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -3636,7 +3636,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -3649,7 +3649,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -3734,7 +3734,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -3752,7 +3752,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -3813,7 +3813,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -3830,7 +3830,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -3932,7 +3932,7 @@
     <SubStyle Collection="Text" Language="1033" Type="HeadingTextStyle">Regular Text (GOST)</SubStyle>
     <SubStyle Collection="Text" Language="1033" Type="TitleTextStyle">Regular Text (GOST)</SubStyle>
     <Name Description="" Language="1028">孔表格 (GOST)</Name>
-    <Name Description="" Language="1029">Tabulka otvorů (GOST)</Name>
+    <Name Description="" Language="1029">Tabulka děr (GOST)</Name>
     <Name Description="" Language="1031">Bohrungstabelle (GOST)</Name>
     <Name Description="" Language="1033">Hole Table (GOST)</Name>
     <Name Description="" Language="1036">Table de perçage (GOST)</Name>
@@ -3944,7 +3944,7 @@
     <Name Description="" Language="1046">Tabela de furos (GOST)</Name>
     <Name Description="" Language="1049">Таблица отверстий (ГОСТ)</Name>
     <Name Description="" Language="2052">孔参数表 (GOST)</Name>
-    <Name Description="" Language="3082">Tabla de agujero (GOST)</Name>
+    <Name Description="" Language="3082">Tabla de agujeros (GOST)</Name>
   </Style>
 
   <Style CombineNumbering="0" CombineReformat="1" DelTagsOnRollup="0" EditFlag="0" GroupHoleTypes="1" Heading="1" HoleFeatureFilter="13" HoleTypeFilter="15" InsideLineColor="0:0:0:255" InsideLineColorByLayer="1" InsideLineWeight="0.025" InsideLineWeightByLayer="1" InternalName="1:Hole Table (ISO)&#xA;" MergeOption="0" NoneNumbering="0" NoneReformat="1" OutsideLineColor="0:0:0:255" OutsideLineColorByLayer="1" OutsideLineWeight="0.025" OutsideLineWeightByLayer="1" PreserveTagging="1" RemoveSecTag="0" TagOrder="1" UseLeader="1" UseTitle="1">
@@ -3958,7 +3958,7 @@
       <Item Language="1040" String="TABELLA FORI"/>
       <Item Language="3082" String="TABLA DE AGUJEROS"/>
       <Item Language="1036" String="TABLE DE PERCAGE"/>
-      <Item Language="1029" String="TABULKA OTVORŮ"/>
+      <Item Language="1029" String="TABULKA DĚR"/>
       <Item Language="1049" String="ТАБЛИЦА ОТВЕРСТИЙ"/>
       <Item Language="2052" String="孔参数表"/>
       <Item Language="1028" String="孔表格"/>
@@ -3985,7 +3985,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -4002,7 +4002,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -4092,7 +4092,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -4108,8 +4108,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -4274,7 +4274,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -4293,7 +4293,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -4306,7 +4306,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -4391,7 +4391,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -4409,7 +4409,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -4470,7 +4470,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -4487,7 +4487,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -4589,7 +4589,7 @@
     <SubStyle Collection="Text" Language="1033" Type="HeadingTextStyle">Note Text (ISO)</SubStyle>
     <SubStyle Collection="Text" Language="1033" Type="TitleTextStyle">Note Text (ISO)</SubStyle>
     <Name Description="" Language="1028">孔表格 (ISO)</Name>
-    <Name Description="" Language="1029">Tabulka otvorů (ISO)</Name>
+    <Name Description="" Language="1029">Tabulka děr (ISO)</Name>
     <Name Description="" Language="1031">Bohrungstabelle (ISO)</Name>
     <Name Description="" Language="1033">Hole Table (ISO)</Name>
     <Name Description="" Language="1036">Table de perçage (ISO)</Name>
@@ -4615,7 +4615,7 @@
       <Item Language="1040" String="TABELLA FORI"/>
       <Item Language="3082" String="TABLA DE AGUJEROS"/>
       <Item Language="1036" String="TABLE DE PERCAGE"/>
-      <Item Language="1029" String="TABULKA OTVORŮ"/>
+      <Item Language="1029" String="TABULKA DĚR"/>
       <Item Language="1049" String="ТАБЛИЦА ОТВЕРСТИЙ"/>
       <Item Language="2052" String="孔参数表"/>
       <Item Language="1028" String="孔表格"/>
@@ -4644,7 +4644,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -4662,7 +4662,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -4756,7 +4756,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1041" String="ざぐり径"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
@@ -4773,8 +4773,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1041" String="ざぐり深さ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
@@ -4949,7 +4949,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -4969,7 +4969,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -4983,7 +4983,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -5073,7 +5073,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -5091,7 +5091,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -5152,7 +5152,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -5169,7 +5169,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -5271,7 +5271,7 @@
     <SubStyle Collection="Text" Language="1033" Type="HeadingTextStyle">Note Text (JIS)</SubStyle>
     <SubStyle Collection="Text" Language="1033" Type="TitleTextStyle">Note Text (JIS)</SubStyle>
     <Name Description="" Language="1028">孔表格 (JIS)</Name>
-    <Name Description="" Language="1029">Tabulka otvorů (JIS)</Name>
+    <Name Description="" Language="1029">Tabulka děr (JIS)</Name>
     <Name Description="" Language="1031">Bohrungstabelle (JIS)</Name>
     <Name Description="" Language="1033">Hole Table (JIS)</Name>
     <Name Description="" Language="1036">Table de perçage (JIS)</Name>
@@ -5325,7 +5325,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -5342,7 +5342,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -5500,7 +5500,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -5516,8 +5516,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -5682,7 +5682,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -5701,7 +5701,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -5714,7 +5714,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -5731,7 +5731,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -5749,7 +5749,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -5810,7 +5810,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -5827,7 +5827,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -5983,7 +5983,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -6000,7 +6000,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -6158,7 +6158,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -6174,8 +6174,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -6340,7 +6340,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -6359,7 +6359,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -6372,7 +6372,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -6389,7 +6389,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -6407,7 +6407,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -6468,7 +6468,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -6485,7 +6485,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -6641,7 +6641,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -6658,7 +6658,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -6816,7 +6816,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -6832,8 +6832,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -6998,7 +6998,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -7017,7 +7017,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -7030,7 +7030,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -7047,7 +7047,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -7065,7 +7065,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -7126,7 +7126,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -7143,7 +7143,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -7299,7 +7299,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -7316,7 +7316,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -7474,7 +7474,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -7490,8 +7490,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -7656,7 +7656,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -7675,7 +7675,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -7688,7 +7688,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -7705,7 +7705,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -7723,7 +7723,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -7784,7 +7784,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -7801,7 +7801,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -7957,7 +7957,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -7974,7 +7974,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -8132,7 +8132,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -8148,8 +8148,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -8314,7 +8314,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -8333,7 +8333,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -8346,7 +8346,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -8363,7 +8363,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -8381,7 +8381,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -8442,7 +8442,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -8459,7 +8459,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -8615,7 +8615,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -8633,7 +8633,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -8727,7 +8727,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1041" String="ざぐり径"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
@@ -8744,8 +8744,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1041" String="ざぐり深さ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
@@ -8920,7 +8920,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -8940,7 +8940,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -8954,7 +8954,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -9040,7 +9040,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -9058,7 +9058,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -9119,7 +9119,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -9136,7 +9136,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -9292,7 +9292,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -9309,7 +9309,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -9467,7 +9467,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
           <Item Language="1042" String="카운터보어 지름"/>
@@ -9483,8 +9483,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
           <Item Language="1042" String="카운터보어 깊이"/>
@@ -9649,7 +9649,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -9668,7 +9668,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -9681,7 +9681,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033 1041" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -9698,7 +9698,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -9716,7 +9716,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -9777,7 +9777,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -9794,7 +9794,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>
@@ -9952,7 +9952,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN X"/>
           <Item Language="1036" String="Cote X"/>
-          <Item Language="1046" String="COTA EM X"/>
+          <Item Language="1046" String="COTAX"/>
           <Item Language="1029" String="KÓTAX"/>
           <Item Language="1040" String="QUOTA X"/>
           <Item Language="1045" String="WYMX"/>
@@ -9970,7 +9970,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTA EN Y"/>
           <Item Language="1036" String="Cote Y"/>
-          <Item Language="1046" String="COTA EM Y"/>
+          <Item Language="1046" String="COTAY"/>
           <Item Language="1029" String="KÓTAY"/>
           <Item Language="1040" String="QUOTA Y"/>
           <Item Language="1045" String="WYMY"/>
@@ -10136,7 +10136,7 @@
           <Item Language="1038" String="HENGSÜLLY ÁTMÉRŐ"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ C"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ C"/>
           <Item Language="1041" String="ざぐり径"/>
           <Item Language="1028" String="柱坑直徑"/>
           <Item Language="2052" String="沉头孔直径"/>
@@ -10153,8 +10153,8 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG"/>
-          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ C"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG"/>
+          <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ"/>
           <Item Language="1041" String="ざぐり深さ"/>
           <Item Language="1028" String="柱坑深度"/>
           <Item Language="2052" String="沉头孔深度"/>
@@ -10329,7 +10329,7 @@
           <Item Language="1038" String="KÖTŐELEM TÍPUSA"/>
           <Item Language="1031" String="SCHRAUBENTYP"/>
           <Item Language="3082" String="TIPO DE FIADOR"/>
-          <Item Language="1046" String="TIPO DE FIXADOR"/>
+          <Item Language="1046" String="TIPO DE ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1040" String="TIPO ELEMENTO DI FISSAGGIO"/>
           <Item Language="1045" String="TYP CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1029" String="TYP SPOJOVACÍ SOUČÁSTI"/>
@@ -10349,7 +10349,7 @@
           <Item Language="1045" String="ROZMIAR CZĘŚCI ZŁĄCZNEJ"/>
           <Item Language="1031" String="SCHRAUBENGRÖSSE"/>
           <Item Language="1036" String="TAILLE D'ATTACHE"/>
-          <Item Language="1046" String="TAMANHO DO FIXADOR"/>
+          <Item Language="1046" String="TAMANHO DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="3082" String="TAMAÑO DE FIADOR"/>
           <Item Language="1029" String="VELIKOST SPOJOVACÍ SOUČÁSTI"/>
           <Item Language="1049" String="РАЗМЕР КРЕПЕЖА"/>
@@ -10363,7 +10363,7 @@
         <PropertyExternalName>
           <Item Language="1040" String="ADATTAMENTO ELEMENTO DI FISSAGGIO"/>
           <Item Language="3082" String="AJUSTE DE FIADOR"/>
-          <Item Language="1046" String="AJUSTE DO FIXADOR"/>
+          <Item Language="1046" String="AJUSTE DO ELEMENTO DE FIXAÇÃO"/>
           <Item Language="1036" String="AJUSTEMENT D'ATTACHE"/>
           <Item Language="1033" String="FASTENER FIT"/>
           <Item Language="1038" String="KÖTŐELEM ILLESZTÉSE"/>
@@ -10381,7 +10381,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAX (Alt)"/>
           <Item Language="1036" String="COTE X (Sec)"/>
-          <Item Language="1046" String="COTA EM X (Alt)"/>
+          <Item Language="1046" String="COTAX (Alt)"/>
           <Item Language="1029" String="KÓTAX (Alt)"/>
           <Item Language="1040" String="QUOTA X (alt.)"/>
           <Item Language="1045" String="WYM X (Alt)"/>
@@ -10399,7 +10399,7 @@
         <PropertyExternalName>
           <Item Language="3082" String="COTAY (Alt)"/>
           <Item Language="1036" String="COTE Y (Sec)"/>
-          <Item Language="1046" String="COTA EM Y (Alt)"/>
+          <Item Language="1046" String="COTAY (Alt)"/>
           <Item Language="1029" String="KÓTAY (Alt)"/>
           <Item Language="1040" String="QUOTA Y (alt.)"/>
           <Item Language="1045" String="WYM Y (Alt)"/>
@@ -10460,7 +10460,7 @@
           <Item Language="1031" String="DURCHMESSER DER ZYL. BOHRUNG (Alt)"/>
           <Item Language="1029" String="PRŮMĚR VÁLCOVÉHO ZAHLOUBENÍ (Alt)"/>
           <Item Language="1045" String="ŚREDNICA POGŁĘBIENIA WALCOWEGO (Alt)"/>
-          <Item Language="1049" String="ДИАМЕТР РАСТОЧКИ (Альт.)"/>
+          <Item Language="1049" String="ДИАМЕТР ЦЕКОВКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり径(Alt)"/>
           <Item Language="1028" String="柱坑直徑 (替用)"/>
           <Item Language="2052" String="沉头孔直径(备用)"/>
@@ -10477,7 +10477,7 @@
           <Item Language="1040" String="PROFONDITÀ LAMATURA (alt.)"/>
           <Item Language="3082" String="PROFUNDIDAD DE ESCARIADO (Alt)"/>
           <Item Language="1046" String="PROFUNDIDADE DE REBAIXAMENTO (Alt)"/>
-          <Item Language="1031" String="TIEFE DER ZYL. BOHRUNG (Alt)"/>
+          <Item Language="1031" String="TIEFE DER ZYL. SENKUNG (Alt)"/>
           <Item Language="1049" String="ГЛУБИНА РАСТОЧКИ (Альт.)"/>
           <Item Language="1041" String="ざぐり深さ(Alt)"/>
           <Item Language="1028" String="柱坑深度 (替用)"/>

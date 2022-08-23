@@ -5183,7 +5183,7 @@
       </trans-unit>
       <trans-unit id="InvGen-069">
         <source>InvGen-069</source>
-        <target>钢 - 铸造</target>
+        <target>钢 - 投影</target>
       </trans-unit>
       <trans-unit id="InvGen-070">
         <source>InvGen-070</source>
@@ -6079,7 +6079,7 @@
       </trans-unit>
       <trans-unit id="MaterialInv_018">
         <source>MaterialInv_018</source>
-        <target>灰口铁</target>
+        <target>铁，灰色</target>
       </trans-unit>
       <trans-unit id="MaterialInv_020">
         <source>MaterialInv_020</source>
@@ -7563,7 +7563,7 @@
       </trans-unit>
       <trans-unit id="PhysicalMetal_129">
         <source>PhysicalMetal_129</source>
-        <target>铜 - 软黄 - 焊接</target>
+        <target>黄铜 - 软黄 - 焊接</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_130">
         <source>PhysicalMetal_130</source>

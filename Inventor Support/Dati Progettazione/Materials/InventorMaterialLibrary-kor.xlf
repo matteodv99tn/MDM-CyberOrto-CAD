@@ -595,7 +595,7 @@
       </trans-unit>
       <trans-unit id="ACADGen-027">
         <source>ACADGen-027</source>
-        <target>커튼월 - 스테인레스 스틸</target>
+        <target>커튼월 - 스테인리스스틸</target>
       </trans-unit>
       <trans-unit id="ACADGen-028">
         <source>ACADGen-028</source>
@@ -967,11 +967,11 @@
       </trans-unit>
       <trans-unit id="ACADGen-104">
         <source>ACADGen-104</source>
-        <target>조각나무마루 - 회색-황갈색</target>
+        <target>쪽모이 - 회색-황갈색</target>
       </trans-unit>
       <trans-unit id="ACADGen-105">
         <source>ACADGen-105</source>
-        <target>조각나무마루 - 갈색</target>
+        <target>쪽모이 - 갈색</target>
       </trans-unit>
       <trans-unit id="ACADGen-106">
         <source>ACADGen-106</source>
@@ -1331,7 +1331,7 @@
       </trans-unit>
       <trans-unit id="ACADGen-179">
         <source>ACADGen-179</source>
-        <target>등자리 세공 - 황갈색</target>
+        <target>캐닝 - 황갈색</target>
       </trans-unit>
       <trans-unit id="ACADGen-180">
         <source>ACADGen-180</source>
@@ -1879,7 +1879,7 @@
       </trans-unit>
       <trans-unit id="ACADGen-303">
         <source>ACADGen-303</source>
-        <target>체크무늬 플레이트 - 조각나무마루</target>
+        <target>체크무늬 플레이트 - 쪽모이</target>
       </trans-unit>
       <trans-unit id="ACADGen-304">
         <source>ACADGen-304</source>
@@ -1935,15 +1935,15 @@
       </trans-unit>
       <trans-unit id="ACADGen-317">
         <source>ACADGen-317</source>
-        <target>스테인레스 스틸 - 밝음</target>
+        <target>스테인리스스틸 - 밝음</target>
       </trans-unit>
       <trans-unit id="ACADGen-318">
         <source>ACADGen-318</source>
-        <target>스테인레스 스틸 - 새틴 - 브러시 밝음 - 버전 1.1</target>
+        <target>스테인리스스틸 - 새틴 - 브러시 밝음 - 버전 1.1</target>
       </trans-unit>
       <trans-unit id="ACADGen-318-1-2">
         <source>ACADGen-318-1-2</source>
-        <target>스테인레스 스틸 - 새틴 - 브러시 밝음</target>
+        <target>스테인리스스틸 - 새틴 - 브러시 밝음</target>
       </trans-unit>
       <trans-unit id="ACADGen-319">
         <source>ACADGen-319</source>
@@ -2547,7 +2547,7 @@
       </trans-unit>
       <trans-unit id="Austenitic stainless steel">
         <source>Austenitic stainless steel</source>
-        <target>감마철 스테인레스 스틸</target>
+        <target>감마철 스테인리스스틸</target>
       </trans-unit>
       <trans-unit id="AutoCAD">
         <source>AutoCAD</source>
@@ -3071,11 +3071,11 @@
       </trans-unit>
       <trans-unit id="Concrete.Cast-In-Place.Formwork.Holes">
         <source>Concrete.Cast-In-Place.Formwork.Holes</source>
-        <target>콘크리트.현장타설.양식 작업.구멍</target>
+        <target>콘크리트.현장타설.거푸집 작업.구멍</target>
       </trans-unit>
       <trans-unit id="Concrete.Cast-In-Place.Formwork.Holes.Staggered">
         <source>Concrete.Cast-In-Place.Formwork.Holes.Staggered</source>
-        <target>콘크리트.현장타설.양식 작업.구멍.엇갈림</target>
+        <target>콘크리트.현장타설.거푸집 작업.구멍.엇갈림</target>
       </trans-unit>
       <trans-unit id="Concrete.Cast-In-Place.Panels.Reveal.1">
         <source>Concrete.Cast-In-Place.Panels.Reveal.1</source>
@@ -3115,11 +3115,11 @@
       </trans-unit>
       <trans-unit id="Concrete.Cast-in-Place.Formwork.Wood.Boards">
         <source>Concrete.Cast-in-Place.Formwork.Wood.Boards</source>
-        <target>콘크리트.현장타설.양식 작업.목재.보드</target>
+        <target>콘크리트.현장타설.거푸집 작업.목재.보드</target>
       </trans-unit>
       <trans-unit id="Concrete.Cast-in-Place.Formwork.Wood.Plywood">
         <source>Concrete.Cast-in-Place.Formwork.Wood.Plywood</source>
-        <target>콘크리트.현장타설.양식 작업.목재.합판</target>
+        <target>콘크리트.현장타설.거푸집 작업.목재.합판</target>
       </trans-unit>
       <trans-unit id="Concrete.Concrete Accessories.Control Joints.Black">
         <source>Concrete.Concrete Accessories.Control Joints.Black</source>
@@ -3291,7 +3291,7 @@
       </trans-unit>
       <trans-unit id="Doors - Windows.Glazed Curtain Walls.Stainless Steel Curtain Wall">
         <source>Doors - Windows.Glazed Curtain Walls.Stainless Steel Curtain Wall</source>
-        <target>문 - 창.글레이즈드 커튼 벽.스테인레스 스틸 커튼 벽</target>
+        <target>문 - 창.글레이즈드 커튼 벽.스테인리스스틸 커튼 벽</target>
       </trans-unit>
       <trans-unit id="Doors - Windows.Glazing.2">
         <source>Doors - Windows.Glazing.2</source>
@@ -3411,7 +3411,7 @@
       </trans-unit>
       <trans-unit id="Fabric-002">
         <source>Fabric-002</source>
-        <target>등자리 세공 - 황갈색 1</target>
+        <target>캐닝 - 황갈색 1</target>
       </trans-unit>
       <trans-unit id="Fabric-003">
         <source>Fabric-003</source>
@@ -3739,7 +3739,7 @@
       </trans-unit>
       <trans-unit id="Finishes.Flooring.Vinyl.Checker.Black-White">
         <source>Finishes.Flooring.Vinyl.Checker.Black-White</source>
-        <target>마감.바닥.비닐.바둑판 무늬.검은색-흰색</target>
+        <target>마감.바닥.비닐.체크무늬.검은색-흰색</target>
       </trans-unit>
       <trans-unit id="Finishes.Flooring.Wood.Hardwood">
         <source>Finishes.Flooring.Wood.Hardwood</source>
@@ -3831,7 +3831,7 @@
       </trans-unit>
       <trans-unit id="Finishes.Masonry Flooring.Marble.Green.Offset Squares">
         <source>Finishes.Masonry Flooring.Marble.Green.Offset Squares</source>
-        <target>마감.석조 바닥.대리석.녹색.간격띄우기 사각</target>
+        <target>마감.석조 바닥.대리석.녹색.간격띄우기 정사각</target>
       </trans-unit>
       <trans-unit id="Finishes.Masonry Flooring.Marble.Rose">
         <source>Finishes.Masonry Flooring.Marble.Rose</source>
@@ -3995,23 +3995,23 @@
       </trans-unit>
       <trans-unit id="Finishes.Tiling.Ceramic.Checker">
         <source>Finishes.Tiling.Ceramic.Checker</source>
-        <target>마감.타일링.자기.바둑판 무늬</target>
+        <target>마감.타일링.세라믹.체크무늬</target>
       </trans-unit>
       <trans-unit id="Finishes.Tiling.Ceramic.Mosaic.Blue">
         <source>Finishes.Tiling.Ceramic.Mosaic.Blue</source>
-        <target>마감.타일링.자기.모자이크.파란색</target>
+        <target>마감.타일링.세라믹.모자이크.파란색</target>
       </trans-unit>
       <trans-unit id="Finishes.Tiling.Ceramic.Mosaic.Floral.Rose - Green">
         <source>Finishes.Tiling.Ceramic.Mosaic.Floral.Rose - Green</source>
-        <target>마감.타일링.자기.모자이크.꽃.장미 - 녹색</target>
+        <target>마감.타일링.세라믹.모자이크.꽃.장미 - 녹색</target>
       </trans-unit>
       <trans-unit id="Finishes.Tiling.Ceramic.Mosaic.Grey">
         <source>Finishes.Tiling.Ceramic.Mosaic.Grey</source>
-        <target>마감.타일링.자기.모자이크.그레이</target>
+        <target>마감.타일링.세라믹.모자이크.그레이</target>
       </trans-unit>
       <trans-unit id="Finishes.Tiling.Ceramic.Mosaic.Yellow-Grid">
         <source>Finishes.Tiling.Ceramic.Mosaic.Yellow-Grid</source>
-        <target>마감.타일링.자기.모자이크.노란색-그리드</target>
+        <target>마감.타일링.세라믹.모자이크.노란색-그리드</target>
       </trans-unit>
       <trans-unit id="Finishes.Wall Covering.Floral.White">
         <source>Finishes.Wall Covering.Floral.White</source>
@@ -4115,7 +4115,7 @@
       </trans-unit>
       <trans-unit id="Furnishings.Fabrics.Leather.Black">
         <source>Furnishings.Fabrics.Leather.Black</source>
-        <target>가구.천.가죽.검정색</target>
+        <target>가구.천.가죽.검은색</target>
       </trans-unit>
       <trans-unit id="Furnishings.Fabrics.Leather.Black.1">
         <source>Furnishings.Fabrics.Leather.Black.1</source>
@@ -4127,7 +4127,7 @@
       </trans-unit>
       <trans-unit id="Furnishings.Fabrics.Leather.Pebble.Light Brown">
         <source>Furnishings.Fabrics.Leather.Pebble.Light Brown</source>
-        <target>가구.천.가죽.자갈무늬.연한 갈색</target>
+        <target>가구.천.가죽.자갈무늬.연갈색</target>
       </trans-unit>
       <trans-unit id="Furnishings.Fabrics.Leather.Pebble.Mauve">
         <source>Furnishings.Fabrics.Leather.Pebble.Mauve</source>
@@ -5031,7 +5031,7 @@
       </trans-unit>
       <trans-unit id="InvGen-036">
         <source>InvGen-036</source>
-        <target>용접 - 스테인레스 스틸</target>
+        <target>용접 - 스테인리스스틸</target>
       </trans-unit>
       <trans-unit id="InvGen-037">
         <source>InvGen-037</source>
@@ -5379,7 +5379,7 @@
       </trans-unit>
       <trans-unit id="Martensitic stainless steel">
         <source>Martensitic stainless steel</source>
-        <target>마르텐사이트 스테인레스 스틸</target>
+        <target>마르텐사이트 스테인리스스틸</target>
       </trans-unit>
       <trans-unit id="Masonry and CMU material.">
         <source>Masonry and CMU material.</source>
@@ -5547,7 +5547,7 @@
       </trans-unit>
       <trans-unit id="Masonry-041">
         <source>Masonry-041</source>
-        <target>면 분할 적층 - 갈색</target>
+        <target>면 분할 스택 - 갈색</target>
       </trans-unit>
       <trans-unit id="Masonry-042">
         <source>Masonry-042</source>
@@ -5559,7 +5559,7 @@
       </trans-unit>
       <trans-unit id="Masonry-044">
         <source>Masonry-044</source>
-        <target>면 분할 적층 - 회색</target>
+        <target>면 분할 스택 - 회색</target>
       </trans-unit>
       <trans-unit id="Masonry-045">
         <source>Masonry-045</source>
@@ -5587,7 +5587,7 @@
       </trans-unit>
       <trans-unit id="Masonry-051">
         <source>Masonry-051</source>
-        <target>면 분할 적층 - 분홍색</target>
+        <target>면 분할 스택 - 분홍색</target>
       </trans-unit>
       <trans-unit id="Masonry.Masonry Accessories.Control Joints.Black">
         <source>Masonry.Masonry Accessories.Control Joints.Black</source>
@@ -5659,7 +5659,7 @@
       </trans-unit>
       <trans-unit id="Masonry.Stone.Marble.Square.Stacked.Polished.White - Green">
         <source>Masonry.Stone.Marble.Square.Stacked.Polished.White - Green</source>
-        <target>석조.석재.대리석.사각.스택.연마.흰색 - 녹색</target>
+        <target>석조.석재.대리석.정사각.스택.연마.흰색 - 녹색</target>
       </trans-unit>
       <trans-unit id="Masonry.Stone.Marble.Square.Stacked.Polished.White-Black">
         <source>Masonry.Stone.Marble.Square.Stacked.Polished.White-Black</source>
@@ -5719,7 +5719,7 @@
       </trans-unit>
       <trans-unit id="Masonry.Stone.Travertine.DarkBrown">
         <source>Masonry.Stone.Travertine.DarkBrown</source>
-        <target>석조.석재.트래버틴.진한 갈색</target>
+        <target>석조.석재.트래버틴.암갈색</target>
       </trans-unit>
       <trans-unit id="Masonry.Stone.Travertine.DarkRed">
         <source>Masonry.Stone.Travertine.DarkRed</source>
@@ -6095,15 +6095,15 @@
       </trans-unit>
       <trans-unit id="MaterialInv_024">
         <source>MaterialInv_024</source>
-        <target>스테인레스 스틸</target>
+        <target>스테인리스스틸</target>
       </trans-unit>
       <trans-unit id="MaterialInv_025">
         <source>MaterialInv_025</source>
-        <target>스테인레스 스틸, 440C</target>
+        <target>스테인리스스틸, 440C</target>
       </trans-unit>
       <trans-unit id="MaterialInv_026">
         <source>MaterialInv_026</source>
-        <target>스테인레스 스틸, 감마철</target>
+        <target>스테인리스스틸, 감마철</target>
       </trans-unit>
       <trans-unit id="MaterialInv_028">
         <source>MaterialInv_028</source>
@@ -6123,11 +6123,11 @@
       </trans-unit>
       <trans-unit id="MaterialInv_033">
         <source>MaterialInv_033</source>
-        <target>스테인레스 스틸 AISI 440C, 용접</target>
+        <target>스테인리스스틸 AISI 440C, 용접</target>
       </trans-unit>
       <trans-unit id="MaterialInv_034">
         <source>MaterialInv_034</source>
-        <target>연강, 용접</target>
+        <target>강철, 연강, 용접</target>
       </trans-unit>
       <trans-unit id="MaterialInv_035">
         <source>MaterialInv_035</source>
@@ -6263,19 +6263,19 @@
       </trans-unit>
       <trans-unit id="Medium gray and circular roofing shingles">
         <source>Medium gray and circular roofing shingles</source>
-        <target>중간 회색 및 원형 루핑 널</target>
+        <target>중간 회색 및 원형 지붕널</target>
       </trans-unit>
       <trans-unit id="Medium gray and rectangular roofing shingles">
         <source>Medium gray and rectangular roofing shingles</source>
-        <target>중간 회색 및 직사각 루핑 널</target>
+        <target>중간 회색 및 직사각 지붕널</target>
       </trans-unit>
       <trans-unit id="Medium gray and rippled edge roofing shingles">
         <source>Medium gray and rippled edge roofing shingles</source>
-        <target>중간 회색 및 잔물결 모서리 루핑 널</target>
+        <target>중간 회색 및 잔물결 모서리 지붕널</target>
       </trans-unit>
       <trans-unit id="Medium gray and small rectangular roofing shingles">
         <source>Medium gray and small rectangular roofing shingles</source>
-        <target>중간 회색 및 소형 직사각 루핑 널</target>
+        <target>중간 회색 및 소형 직사각 지붕널</target>
       </trans-unit>
       <trans-unit id="Medium gray color">
         <source>Medium gray color</source>
@@ -6283,7 +6283,7 @@
       </trans-unit>
       <trans-unit id="Membrane">
         <source>Membrane</source>
-        <target>세포막</target>
+        <target>멤브래인</target>
       </trans-unit>
       <trans-unit id="Metal">
         <source>Metal</source>
@@ -6579,7 +6579,7 @@
       </trans-unit>
       <trans-unit id="Metal-059">
         <source>Metal-059</source>
-        <target>스탠딩 심 루핑</target>
+        <target>돌출 이음매 지붕</target>
       </trans-unit>
       <trans-unit id="Metal-060">
         <source>Metal-060</source>
@@ -6763,7 +6763,7 @@
       </trans-unit>
       <trans-unit id="MetalPaint-032">
         <source>MetalPaint-032</source>
-        <target>연마 - 은</target>
+        <target>연마 은</target>
       </trans-unit>
       <trans-unit id="MetalSchema_localname:Metal">
         <source>Metal</source>
@@ -7535,15 +7535,15 @@
       </trans-unit>
       <trans-unit id="PhysicalMetal_121">
         <source>PhysicalMetal_121</source>
-        <target>스테인레스 스틸</target>
+        <target>스테인리스스틸</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_122">
         <source>PhysicalMetal_122</source>
-        <target>스테인레스 스틸 AISI 440C</target>
+        <target>스테인리스스틸 AISI 440C</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_123">
         <source>PhysicalMetal_123</source>
-        <target>스테인레스 스틸 - 감마철</target>
+        <target>스테인리스스틸 - 감마철</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_124">
         <source>PhysicalMetal_124</source>
@@ -7567,7 +7567,7 @@
       </trans-unit>
       <trans-unit id="PhysicalMetal_130">
         <source>PhysicalMetal_130</source>
-        <target>스테인레스 스틸 440C - 용접</target>
+        <target>스테인리스스틸 440C - 용접</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_131">
         <source>PhysicalMetal_131</source>
@@ -7831,7 +7831,7 @@
       </trans-unit>
       <trans-unit id="Plastic-041">
         <source>Plastic-041</source>
-        <target>조각나무마루</target>
+        <target>쪽모이</target>
       </trans-unit>
       <trans-unit id="Plastic-042">
         <source>Plastic-042</source>
@@ -7859,11 +7859,11 @@
       </trans-unit>
       <trans-unit id="Plastic-048">
         <source>Plastic-048</source>
-        <target>거침 텍스처 - 적갈색 - 버전 1.1</target>
+        <target>거침 텍스처 - 암적갈색 - 버전 1.1</target>
       </trans-unit>
       <trans-unit id="Plastic-048-1-2">
         <source>Plastic-048-1-2</source>
-        <target>거침 텍스처 - 적갈색</target>
+        <target>거침 텍스처 - 암적갈색</target>
       </trans-unit>
       <trans-unit id="Plastic-049">
         <source>Plastic-049</source>
@@ -8195,7 +8195,7 @@
       </trans-unit>
       <trans-unit id="Roofing">
         <source>Roofing</source>
-        <target>루핑</target>
+        <target>지붕</target>
       </trans-unit>
       <trans-unit id="Rubber">
         <source>Rubber</source>
@@ -8463,11 +8463,11 @@
       </trans-unit>
       <trans-unit id="Stainless Steel 18/8">
         <source>Stainless Steel 18/8</source>
-        <target>스테인레스 스틸 18/8</target>
+        <target>스테인리스스틸 18/8</target>
       </trans-unit>
       <trans-unit id="Stainless Steel, polished">
         <source>Stainless Steel, polished</source>
-        <target>스테인레스 스틸, 연마</target>
+        <target>스테인리스스틸, 연마</target>
       </trans-unit>
       <trans-unit id="Standard">
         <source>Standard</source>
@@ -8523,7 +8523,7 @@
       </trans-unit>
       <trans-unit id="Stone-008">
         <source>Stone-008</source>
-        <target>석회화</target>
+        <target>트래버틴</target>
       </trans-unit>
       <trans-unit id="Stone-009">
         <source>Stone-009</source>
@@ -9231,19 +9231,19 @@
       </trans-unit>
       <trans-unit id="ThermalSolid-093-2">
         <source>ThermalSolid-093-2</source>
-        <target>스테인레스 스틸 v2</target>
+        <target>스테인리스스틸 v2</target>
       </trans-unit>
       <trans-unit id="ThermalSolid-093-3">
         <source>ThermalSolid-093-3</source>
-        <target>스테인레스 스틸, 440C</target>
+        <target>스테인리스스틸, 440C</target>
       </trans-unit>
       <trans-unit id="ThermalSolid-093-4">
         <source>ThermalSolid-093-4</source>
-        <target>스테인레스 스틸, 감마철</target>
+        <target>스테인리스스틸, 감마철</target>
       </trans-unit>
       <trans-unit id="ThermalSolid-093-8">
         <source>ThermalSolid-093-8</source>
-        <target>스테인레스 스틸 AISI 440C, 용접</target>
+        <target>스테인리스스틸 AISI 440C, 용접</target>
       </trans-unit>
       <trans-unit id="ThermalSolid-095">
         <source>ThermalSolid-095</source>
@@ -9507,7 +9507,7 @@
       </trans-unit>
       <trans-unit id="White square bricks with black floral patterns">
         <source>White square bricks with black floral patterns</source>
-        <target>검정색 꽃무늬 패턴이 있는 흰색 정사각 벽돌</target>
+        <target>검은색 꽃무늬 패턴이 있는 흰색 정사각 벽돌</target>
       </trans-unit>
       <trans-unit id="Window glass">
         <source>Window glass</source>
@@ -10223,7 +10223,7 @@
       </trans-unit>
       <trans-unit id="Woods - Plastics.Finish Carpentry.Plastic Laminates.Light Brown">
         <source>Woods - Plastics.Finish Carpentry.Plastic Laminates.Light Brown</source>
-        <target>목재 - 플라스틱.마감 목공.프라스틱 박판.연한 갈색</target>
+        <target>목재 - 플라스틱.마감 목공.프라스틱 박판.연갈색</target>
       </trans-unit>
       <trans-unit id="Woods - Plastics.Finish Carpentry.Wood.Boards">
         <source>Woods - Plastics.Finish Carpentry.Wood.Boards</source>
@@ -10531,7 +10531,7 @@
       </trans-unit>
       <trans-unit id="aspect_ratio:uilabel">
         <source>aspect_ratio</source>
-        <target>가로/세로_비율</target>
+        <target>종횡_비</target>
       </trans-unit>
       <trans-unit id="asphalt">
         <source>asphalt</source>
@@ -10919,7 +10919,7 @@
       </trans-unit>
       <trans-unit id="caning">
         <source>caning</source>
-        <target>등자리 세공</target>
+        <target>캐닝</target>
       </trans-unit>
       <trans-unit id="canvas">
         <source>canvas</source>
@@ -11207,7 +11207,7 @@
       </trans-unit>
       <trans-unit id="ceramic_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="ceramic_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -11735,7 +11735,7 @@
       </trans-unit>
       <trans-unit id="concrete_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="concrete_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -11899,7 +11899,7 @@
       </trans-unit>
       <trans-unit id="decApp_backface_cull:uilabel">
         <source>Backface Cull:</source>
-        <target>뒷면 제거:</target>
+        <target>뒷면 발췌:</target>
       </trans-unit>
       <trans-unit id="decApp_bump_amount">
         <source>Bump Amount:</source>
@@ -12675,7 +12675,7 @@
       </trans-unit>
       <trans-unit id="generic_backface_cull:uilabel">
         <source>Backface Cull</source>
-        <target>뒷면 제거</target>
+        <target>뒷면 발췌</target>
       </trans-unit>
       <trans-unit id="generic_bump_amount">
         <source>Amount</source>
@@ -12931,7 +12931,7 @@
       </trans-unit>
       <trans-unit id="generic_refraction_translucency_weight:tooltip">
         <source>Adjusts the percentage of light that is absorbed and retranmitted as it passes through the surface, as if the surface were a back-lit movie screen. Enter a value between 0 (not translucent) and 100 (completely translucent, such as frosted glass). Active only when Transparency has a value greater than 0.</source>
-        <target>백라이트 효과가 있는 극장 스크린 표면인 것처럼 표면을 통과할 때 흡수되는 빛과 다시 전송되는 빛의 비율을 조정합니다. 0(반투명 아님)과 100(젖빛 유리와 같이 완전 반투명) 사이의 값을 입력합니다. 투명도 값이 0보다 큰 경우에만 활성화됩니다.</target>
+        <target>백라이트 효과가 있는 극장 스크린 표면인 것처럼 표면을 통과할 때 흡수되는 빛과 다시 투과되는 빛의 비율을 조정합니다. 0(반투명 아님)과 100(젖빛 유리와 같이 완전 반투명) 사이의 값을 입력합니다. 투명도 값이 0보다 큰 경우에만 활성화됩니다.</target>
       </trans-unit>
       <trans-unit id="generic_refraction_translucency_weight:uilabel">
         <source>Translucency</source>
@@ -12967,7 +12967,7 @@
       </trans-unit>
       <trans-unit id="generic_roundcorners_radius_control_label:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="generic_self_illum_color_temperature">
         <source>Color Temperature</source>
@@ -13267,7 +13267,7 @@
       </trans-unit>
       <trans-unit id="glazing_transmittance_color:tooltip">
         <source>Adjusts the color of the glazing and the amount of light that is transmitted through the glass.</source>
-        <target>유리를 통과해 전송되는 빛의 양 및 글래이징의 색상을 조정합니다.</target>
+        <target>유리를 통과해 투과되는 빛의 양 및 글래이징의 색상을 조정합니다.</target>
       </trans-unit>
       <trans-unit id="glazing_transmittance_color:uilabel">
         <source>Color</source>
@@ -13995,7 +13995,7 @@
       </trans-unit>
       <trans-unit id="hardwood_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="hardwood_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -15151,7 +15151,7 @@
       </trans-unit>
       <trans-unit id="masonrycmu_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="masonrycmu_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -15363,7 +15363,7 @@
       </trans-unit>
       <trans-unit id="metal_finish:tooltip">
         <source>Selects a surface finish for Aluminum, Chrome, Copper, Brass, Bronze, and Stainless Steel only.</source>
-        <target>표면 마감재를 알루미늄, 크롬, 구리, 황동, 청동 및 스테인레스 스틸로만 선택합니다.</target>
+        <target>표면 마감재를 알루미늄, 크롬, 구리, 황동, 청동 및 스테인리스스틸로만 선택합니다.</target>
       </trans-unit>
       <trans-unit id="metal_finish:uilabel">
         <source>Finish</source>
@@ -15675,7 +15675,7 @@
       </trans-unit>
       <trans-unit id="metal_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="metal_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -15703,7 +15703,7 @@
       </trans-unit>
       <trans-unit id="metal_stainless_steel">
         <source>Stainless Steel</source>
-        <target>스테인레스 스틸</target>
+        <target>스테인리스스틸</target>
       </trans-unit>
       <trans-unit id="metal_type">
         <source>Type</source>
@@ -15735,7 +15735,7 @@
       </trans-unit>
       <trans-unit id="metal_type:metal_stainless_steel">
         <source>Stainless Steel</source>
-        <target>스테인레스 스틸</target>
+        <target>스테인리스스틸</target>
       </trans-unit>
       <trans-unit id="metal_type:metal_zinc">
         <source>Zinc</source>
@@ -16055,7 +16055,7 @@
       </trans-unit>
       <trans-unit id="metallicpaint_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="metallicpaint_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -16199,7 +16199,7 @@
       </trans-unit>
       <trans-unit id="mirror_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="mirror_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -16683,7 +16683,7 @@
       </trans-unit>
       <trans-unit id="parquet">
         <source>parquet</source>
-        <target>조각나무마루</target>
+        <target>쪽모이</target>
       </trans-unit>
       <trans-unit id="particle">
         <source>particle</source>
@@ -16879,7 +16879,7 @@
       </trans-unit>
       <trans-unit id="physmat_aspects:uilabel">
         <source>Physical Aspects</source>
-        <target>물리적 외관</target>
+        <target>물리적 종횡비</target>
       </trans-unit>
       <trans-unit id="physmat_ceramic">
         <source>Ceramic</source>
@@ -17251,7 +17251,7 @@
       </trans-unit>
       <trans-unit id="plasticvinyl_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="plasticvinyl_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -17527,7 +17527,7 @@
       </trans-unit>
       <trans-unit id="roofing">
         <source>roofing</source>
-        <target>루핑</target>
+        <target>지붕</target>
       </trans-unit>
       <trans-unit id="rose">
         <source>rose</source>
@@ -17611,7 +17611,7 @@
       </trans-unit>
       <trans-unit id="seam">
         <source>seam</source>
-        <target>심</target>
+        <target>이음매</target>
       </trans-unit>
       <trans-unit id="seaside">
         <source>seaside</source>
@@ -17959,7 +17959,7 @@
       </trans-unit>
       <trans-unit id="solidglass_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="solidglass_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -18231,7 +18231,7 @@
       </trans-unit>
       <trans-unit id="stacked">
         <source>stacked</source>
-        <target>적층</target>
+        <target>스택</target>
       </trans-unit>
       <trans-unit id="stainless">
         <source>stainless</source>
@@ -18243,7 +18243,7 @@
       </trans-unit>
       <trans-unit id="standing">
         <source>standing</source>
-        <target>스탠딩</target>
+        <target>돌출</target>
       </trans-unit>
       <trans-unit id="std_incandescent">
         <source>Standard Incandescent Light</source>
@@ -18511,7 +18511,7 @@
       </trans-unit>
       <trans-unit id="stone_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="stone_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -19691,11 +19691,11 @@
       </trans-unit>
       <trans-unit id="thermal_Transmits_light">
         <source>Transmits Light</source>
-        <target>빛 전도</target>
+        <target>빛 투과</target>
       </trans-unit>
       <trans-unit id="thermal_Transmits_light:uilabel">
         <source>Transmits Light</source>
-        <target>빛 전도</target>
+        <target>빛 투과</target>
       </trans-unit>
       <trans-unit id="thermal_Vapor_pressure">
         <source>Vapor Pressure</source>
@@ -19803,7 +19803,7 @@
       </trans-unit>
       <trans-unit id="tile_BrickType:tooltip">
         <source>Determines either a preset or custom tile pattern. Preset patterns typically disable most or all of the stacking layout and row/column edit controls.</source>
-        <target>사전 설정 또는 사용자 타일 패턴인지를 결정합니다. 일반적으로 사전 설정 패턴은 대부분 또는 전체 적층식 배치와 행/열 편집 컨트롤을 사용하지 않습니다.</target>
+        <target>사전 설정 또는 사용자 타일 패턴인지를 결정합니다. 일반적으로 사전 설정 패턴은 스택식 배치와 행/열 편집 컨트롤의 대부분 또는 모두를 사용하지 않습니다.</target>
       </trans-unit>
       <trans-unit id="tile_BrickType:uilabel">
         <source>Type</source>
@@ -20051,7 +20051,7 @@
       </trans-unit>
       <trans-unit id="tile_StackingLayout">
         <source>Stacking Layout</source>
-        <target>적층식 배치</target>
+        <target>스택식 배치</target>
       </trans-unit>
       <trans-unit id="tile_UseColumnEdit:uilabel">
         <source>Column Modify</source>
@@ -20147,7 +20147,7 @@
       </trans-unit>
       <trans-unit id="transparent_color:tooltip">
         <source>The color of the light transmitted through the material at the distance defined by the Absorption Distance parameter (Transmission Color). A dark color will create a material that is more opaque than a bright color.</source>
-        <target>흡수 거리 매개변수(전송 색상)로 정의된 거리에 있는 재료를 통해 투과되는 빛의 색상입니다. 어두운 색상은 밝은 색상보다 더 불투명한 재료를 생성합니다.</target>
+        <target>흡수 거리 매개변수(투과 색상)로 정의된 거리에 있는 재료를 통해 투과되는 빛의 색상입니다. 어두운 색상은 밝은 색상보다 더 불투명한 재료를 생성합니다.</target>
       </trans-unit>
       <trans-unit id="transparent_color:uilabel">
         <source>Color</source>
@@ -20167,7 +20167,7 @@
       </trans-unit>
       <trans-unit id="transparent_distance_label:tooltip">
         <source>Defines at which distance the transmission color is reached. For example, a 4 mm sheet of glass transmitting 50% of the incident light would need an Absorption Distance set to 4 mm and a color set to 50% grey.</source>
-        <target>전송 색상이 도달하는 거리를 정의합니다. 예를 들어 입사광의 50%가 투과하는 4mm 유리 시트는 흡수 거리가 4mm로, 색상은 50% 회색으로 설정되어야 합니다.</target>
+        <target>투과 색상이 도달하는 거리를 정의합니다. 예를 들어 입사광의 50%가 투과하는 4mm 유리 시트는 흡수 거리가 4mm로, 색상은 50% 회색으로 설정되어야 합니다.</target>
       </trans-unit>
       <trans-unit id="transparent_ior:uilabel">
         <source>IOR</source>
@@ -20211,7 +20211,7 @@
       </trans-unit>
       <trans-unit id="travertine">
         <source>travertine</source>
-        <target>석회화</target>
+        <target>트래버틴</target>
       </trans-unit>
       <trans-unit id="triangle">
         <source>triangle</source>
@@ -20235,7 +20235,7 @@
       </trans-unit>
       <trans-unit id="umber">
         <source>umber</source>
-        <target>적갈색</target>
+        <target>암적갈색</target>
       </trans-unit>
       <trans-unit id="unfinished">
         <source>unfinished</source>
@@ -20627,7 +20627,7 @@
       </trans-unit>
       <trans-unit id="wallpaint_roundcorners_on:tooltip">
         <source>Enables simulated round corners. Note: This is only a shading effect, similar to a bump map, whereby no actual geometric changes occur.  This effect only works properly on straight edges.</source>
-        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프 맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
+        <target>시뮬레이션된 원형 코너를 사용합니다. 주: 이것은 범프맵과 같은 음영 처리 효과일 뿐이며 실제 기하학적 변경은 수행되지 않습니다. 이 효과는 직선 모서리에서만 제대로 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="wallpaint_roundcorners_on:uilabel">
         <source>Round Corners</source>
@@ -21803,15 +21803,15 @@
       </trans-unit>
       <trans-unit id="Stainless Steel">
         <source>Stainless Steel</source>
-        <target>스테인리스 스틸</target>
+        <target>스테인리스스틸</target>
       </trans-unit>
       <trans-unit id="Stainless Steel, 440C">
         <source>Stainless Steel, 440C</source>
-        <target>스테인리스 스틸, 440C</target>
+        <target>스테인리스스틸, 440C</target>
       </trans-unit>
       <trans-unit id="Stainless Steel, Austenitic">
         <source>Stainless Steel, Austenitic</source>
-        <target>스테인리스 스틸, 감마철</target>
+        <target>스테인리스스틸, 감마철</target>
       </trans-unit>
       <trans-unit id="Steel, High Strength Low Alloy">
         <source>Steel, High Strength Low Alloy</source>

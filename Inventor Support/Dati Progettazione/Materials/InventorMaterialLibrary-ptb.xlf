@@ -6039,7 +6039,7 @@
       </trans-unit>
       <trans-unit id="MaterialInv_005">
         <source>MaterialInv_005</source>
-        <target>Alumínio-6061-AHC</target>
+        <target>Alumínio 6061-AHC</target>
       </trans-unit>
       <trans-unit id="MaterialInv_006">
         <source>MaterialInv_006</source>
@@ -6247,7 +6247,7 @@
       </trans-unit>
       <trans-unit id="MaterialInv_069">
         <source>MaterialInv_069</source>
-        <target>Madeira (Carvalho)</target>
+        <target>Mapeamento de madeira</target>
       </trans-unit>
       <trans-unit id="MaterialInv_070">
         <source>MaterialInv_070</source>
@@ -7571,7 +7571,7 @@
       </trans-unit>
       <trans-unit id="PhysicalMetal_131">
         <source>PhysicalMetal_131</source>
-        <target>Aço - Suave - Soldado</target>
+        <target>Aço - Macio - Soldado</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_132">
         <source>PhysicalMetal_132</source>
@@ -13627,11 +13627,11 @@
       </trans-unit>
       <trans-unit id="graphics_cut_pattern">
         <source>Pattern</source>
-        <target>Modelo</target>
+        <target>Padrão</target>
       </trans-unit>
       <trans-unit id="graphics_cut_pattern:uilabel">
         <source>Pattern</source>
-        <target>Modelo</target>
+        <target>Padrão</target>
       </trans-unit>
       <trans-unit id="graphics_cut_pattern_color">
         <source>Color</source>
@@ -13667,11 +13667,11 @@
       </trans-unit>
       <trans-unit id="graphics_surface_pattern">
         <source>Pattern</source>
-        <target>Modelo</target>
+        <target>Padrão</target>
       </trans-unit>
       <trans-unit id="graphics_surface_pattern:uilabel">
         <source>Pattern</source>
-        <target>Modelo</target>
+        <target>Padrão</target>
       </trans-unit>
       <trans-unit id="graphics_surface_pattern_alignment">
         <source>Alignment</source>
@@ -20087,7 +20087,7 @@
       </trans-unit>
       <trans-unit id="tiling:uilabel">
         <source>Tiling</source>
-        <target>Exibir lado a lado</target>
+        <target>Azulejos</target>
       </trans-unit>
       <trans-unit id="timber">
         <source>timber</source>
@@ -21807,7 +21807,7 @@
       </trans-unit>
       <trans-unit id="Stainless Steel, 440C">
         <source>Stainless Steel, 440C</source>
-        <target>Aço inoxidável - AISI 440C</target>
+        <target>Aço inoxidável, 440C</target>
       </trans-unit>
       <trans-unit id="Stainless Steel, Austenitic">
         <source>Stainless Steel, Austenitic</source>
@@ -21859,7 +21859,7 @@
       </trans-unit>
       <trans-unit id="Wood (Oak)">
         <source>Wood (Oak)</source>
-        <target>Madeira (Carvalho)</target>
+        <target>Mapeamento de madeira</target>
       </trans-unit>
       <trans-unit id="Wood (Walnut)">
         <source>Wood (Walnut)</source>

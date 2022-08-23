@@ -7491,7 +7491,7 @@
       </trans-unit>
       <trans-unit id="PhysicalMetal_103">
         <source>PhysicalMetal_103</source>
-        <target>Latón - Amarillo claro</target>
+        <target>Latón - amarillo claro</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_106">
         <source>PhysicalMetal_106</source>
@@ -7563,7 +7563,7 @@
       </trans-unit>
       <trans-unit id="PhysicalMetal_129">
         <source>PhysicalMetal_129</source>
-        <target>Bronce - Amarillo claro - Soldado</target>
+        <target>Latón - amarillo claro - soldado</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_130">
         <source>PhysicalMetal_130</source>
@@ -19283,7 +19283,7 @@
       </trans-unit>
       <trans-unit id="surface_roughness:tooltip">
         <source>The surface finish of the material, specifying the size of microscopic imperfections. When zero, the whole surface is a perfect mirror. Larger values tend towards more diffuse (rough) appearance and larger highlights. Use together with Anisotropy to obtain a brushed finish effect.</source>
-        <target>El acabado de la superficie del material que especifica el tamaño de las imperfecciones microscópicas. Si se establece en cero, toda la superficie será un espejo perfecto. Los valores elevados tienden a ofrecer un aspecto más difuso (áspero) y resaltes de mayor tamaño. Se utiliza junto la opción Anisotropía para obtener un efecto de acabado bruñido.</target>
+        <target>El acabado de la superficie del material, que especifica el tamaño de las imperfecciones microscópicas. Si se establece en cero, toda la superficie será un espejo perfecto. Los valores elevados tienden a ofrecer una apariencia más difusa (rugosa) y resaltes de mayor tamaño. Se utiliza junto la opción Anisotropía para obtener un efecto de acabado bruñido.</target>
       </trans-unit>
       <trans-unit id="surface_roughness:uilabel">
         <source>Roughness</source>
@@ -20087,7 +20087,7 @@
       </trans-unit>
       <trans-unit id="tiling:uilabel">
         <source>Tiling</source>
-        <target>Mosaicos</target>
+        <target>Azulejos</target>
       </trans-unit>
       <trans-unit id="timber">
         <source>timber</source>
@@ -20487,19 +20487,19 @@
       </trans-unit>
       <trans-unit id="wallpaint_application:wallpaint_brush">
         <source>Brush</source>
-        <target>Bruñido</target>
+        <target>Brocha</target>
       </trans-unit>
       <trans-unit id="wallpaint_application:wallpaint_roller">
         <source>Roller</source>
-        <target>Articulación deslizante</target>
+        <target>Rodillo</target>
       </trans-unit>
       <trans-unit id="wallpaint_application:wallpaint_spray">
         <source>Spray</source>
-        <target>Aspersión</target>
+        <target>Aerosol</target>
       </trans-unit>
       <trans-unit id="wallpaint_brush">
         <source>Brush</source>
-        <target>Bruñido</target>
+        <target>Brocha</target>
       </trans-unit>
       <trans-unit id="wallpaint_color">
         <source>Color</source>
@@ -20607,7 +20607,7 @@
       </trans-unit>
       <trans-unit id="wallpaint_roller">
         <source>Roller</source>
-        <target>Articulación deslizante</target>
+        <target>Rodillo</target>
       </trans-unit>
       <trans-unit id="wallpaint_roundcorners_allow_different_materials:rightlabel">
         <source>Blend with Other Materials</source>
@@ -20651,7 +20651,7 @@
       </trans-unit>
       <trans-unit id="wallpaint_spray">
         <source>Spray</source>
-        <target>Aspersión</target>
+        <target>Aerosol</target>
       </trans-unit>
       <trans-unit id="wallpaper">
         <source>wallpaper</source>
@@ -21639,11 +21639,11 @@
       </trans-unit>
       <trans-unit id="Acetal Resin, Black">
         <source>Acetal Resin, Black</source>
-        <target>Resina acetal, negra</target>
+        <target>Resina acetálica, negra</target>
       </trans-unit>
       <trans-unit id="Acetal Resin, White">
         <source>Acetal Resin, White</source>
-        <target>Resina acetal, blanca</target>
+        <target>Resina acetálica, blanca</target>
       </trans-unit>
       <trans-unit id="Alloy Steel">
         <source>Alloy Steel</source>

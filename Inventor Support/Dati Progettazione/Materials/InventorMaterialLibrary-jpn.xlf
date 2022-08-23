@@ -591,7 +591,7 @@
       </trans-unit>
       <trans-unit id="ACADGen-026">
         <source>ACADGen-026</source>
-        <target>ドア ハードウェア -　クローム サテン</target>
+        <target>ドア ハードウェア -　クロム サテン</target>
       </trans-unit>
       <trans-unit id="ACADGen-027">
         <source>ACADGen-027</source>
@@ -1811,7 +1811,7 @@
       </trans-unit>
       <trans-unit id="ACADGen-288">
         <source>ACADGen-288</source>
-        <target>ソープストーン - ダーク グレー</target>
+        <target>ソープストーン - 濃い灰色</target>
       </trans-unit>
       <trans-unit id="ACADGen-289">
         <source>ACADGen-289</source>
@@ -1883,7 +1883,7 @@
       </trans-unit>
       <trans-unit id="ACADGen-304">
         <source>ACADGen-304</source>
-        <target>クローム - サテン 1</target>
+        <target>クロム - サテン 1</target>
       </trans-unit>
       <trans-unit id="ACADGen-305">
         <source>ACADGen-305</source>
@@ -2743,7 +2743,7 @@
       </trans-unit>
       <trans-unit id="Ceramic-022">
         <source>Ceramic-022</source>
-        <target>6 インチ 八角形 - ダーク グレー</target>
+        <target>6 インチ 八角形 - 濃い灰色</target>
       </trans-unit>
       <trans-unit id="Ceramic-023">
         <source>Ceramic-023</source>
@@ -5131,7 +5131,7 @@
       </trans-unit>
       <trans-unit id="InvGen-059">
         <source>InvGen-059</source>
-        <target>クローム - つや出し 黒</target>
+        <target>クロム - つや出し 黒</target>
       </trans-unit>
       <trans-unit id="InvGen-060">
         <source>InvGen-060</source>
@@ -6031,7 +6031,7 @@
       </trans-unit>
       <trans-unit id="MaterialInv_003">
         <source>MaterialInv_003</source>
-        <target>鋼、合金</target>
+        <target>鋼、合金鋼</target>
       </trans-unit>
       <trans-unit id="MaterialInv_004">
         <source>MaterialInv_004</source>
@@ -6247,7 +6247,7 @@
       </trans-unit>
       <trans-unit id="MaterialInv_069">
         <source>MaterialInv_069</source>
-        <target>木 (オーク)</target>
+        <target>木材 (オーク)</target>
       </trans-unit>
       <trans-unit id="MaterialInv_070">
         <source>MaterialInv_070</source>
@@ -6287,7 +6287,7 @@
       </trans-unit>
       <trans-unit id="Metal">
         <source>Metal</source>
-        <target>金属</target>
+        <target>メタル</target>
       </trans-unit>
       <trans-unit id="Metal structural asset.">
         <source>Metal structural asset.</source>
@@ -6367,19 +6367,19 @@
       </trans-unit>
       <trans-unit id="Metal-017">
         <source>Metal-017</source>
-        <target>クローム - つや出し</target>
+        <target>クロム - つや出し</target>
       </trans-unit>
       <trans-unit id="Metal-018">
         <source>Metal-018</source>
-        <target>クローム - つや出し ブラシ仕上げ バージョン 1.1</target>
+        <target>クロム - つや出し ブラシ仕上げ バージョン 1.1</target>
       </trans-unit>
       <trans-unit id="Metal-018-1-2">
         <source>Metal-018-1-2</source>
-        <target>クローム - つや出し ブラシ仕上げ</target>
+        <target>クロム - つや出し ブラシ仕上げ</target>
       </trans-unit>
       <trans-unit id="Metal-019">
         <source>Metal-019</source>
-        <target>クローム - サテン</target>
+        <target>クロム - サテン</target>
       </trans-unit>
       <trans-unit id="Metal-020">
         <source>Metal-020</source>
@@ -6543,11 +6543,11 @@
       </trans-unit>
       <trans-unit id="Metal-053">
         <source>Metal-053</source>
-        <target>クローム - つや出し ブラシ仕上げ 重厚 バージョン 1.1</target>
+        <target>クロム - つや出し ブラシ仕上げ 重厚 バージョン 1.1</target>
       </trans-unit>
       <trans-unit id="Metal-053-1-2">
         <source>Metal-053-1-2</source>
-        <target>クローム - つや出し ブラシ仕上げ 重厚</target>
+        <target>クロム - つや出し ブラシ仕上げ 重厚</target>
       </trans-unit>
       <trans-unit id="Metal-054">
         <source>Metal-054</source>
@@ -6571,7 +6571,7 @@
       </trans-unit>
       <trans-unit id="Metal-057">
         <source>Metal-057</source>
-        <target>クローム - サテン 網状</target>
+        <target>クロム - サテン 網状</target>
       </trans-unit>
       <trans-unit id="Metal-058">
         <source>Metal-058</source>
@@ -6595,7 +6595,7 @@
       </trans-unit>
       <trans-unit id="Metal-062-1-2">
         <source>Metal-062-1-2</source>
-        <target>ダイヤモンド プレート - ダークグレー</target>
+        <target>ダイヤモンド プレート - 濃い灰色</target>
       </trans-unit>
       <trans-unit id="Metal-063">
         <source>Metal-063</source>
@@ -6603,7 +6603,7 @@
       </trans-unit>
       <trans-unit id="Metal-063-1-2">
         <source>Metal-063-1-2</source>
-        <target>ナールド 45</target>
+        <target>ナーリング 45</target>
       </trans-unit>
       <trans-unit id="Metal-065">
         <source>Metal-065</source>
@@ -6611,7 +6611,7 @@
       </trans-unit>
       <trans-unit id="Metal-065-1-2">
         <source>Metal-065-1-2</source>
-        <target>ダイヤモンド プレート 2 - ダーク グレー</target>
+        <target>ダイヤモンド プレート 2 - 濃い灰色</target>
       </trans-unit>
       <trans-unit id="Metal.">
         <source>Metal.</source>
@@ -6619,23 +6619,23 @@
       </trans-unit>
       <trans-unit id="Metal/Aluminum">
         <source>Metal/Aluminum</source>
-        <target>金属/アルミニウム</target>
+        <target>メタル/アルミニウム</target>
       </trans-unit>
       <trans-unit id="Metal/Fabricated">
         <source>Metal/Fabricated</source>
-        <target>金属/組み立て済</target>
+        <target>メタル/組み立て済</target>
       </trans-unit>
       <trans-unit id="Metal/Iron">
         <source>Metal/Iron</source>
-        <target>金属/鉄</target>
+        <target>メタル/鉄</target>
       </trans-unit>
       <trans-unit id="Metal/Non Ferrous">
         <source>Metal/Non Ferrous</source>
-        <target>金属/非鉄</target>
+        <target>メタル/非鉄</target>
       </trans-unit>
       <trans-unit id="Metal/Steel">
         <source>Metal/Steel</source>
-        <target>金属/鋼</target>
+        <target>メタル/鋼</target>
       </trans-unit>
       <trans-unit id="MetalPaint-001">
         <source>MetalPaint-001</source>
@@ -7627,7 +7627,7 @@
       </trans-unit>
       <trans-unit id="PhysicalWood_103">
         <source>PhysicalWood_103</source>
-        <target>木材 - オーク</target>
+        <target>木 (オーク)</target>
       </trans-unit>
       <trans-unit id="PhysicalWood_104">
         <source>PhysicalWood_104</source>
@@ -8083,7 +8083,7 @@
       </trans-unit>
       <trans-unit id="PrismMetalSchema_localname:Metal">
         <source>Metal</source>
-        <target>金属</target>
+        <target>メタル</target>
       </trans-unit>
       <trans-unit id="PrismMetalSchema_localtype:Appearance">
         <source>Appearance</source>
@@ -9215,7 +9215,7 @@
       </trans-unit>
       <trans-unit id="ThermalSolid-092-6">
         <source>ThermalSolid-092-6</source>
-        <target>鋼、合金</target>
+        <target>鋼、合金鋼</target>
       </trans-unit>
       <trans-unit id="ThermalSolid-092-7">
         <source>ThermalSolid-092-7</source>
@@ -10567,7 +10567,7 @@
       </trans-unit>
       <trans-unit id="asset_source">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="asset_texture_paths">
         <source>Texture Paths</source>
@@ -10795,11 +10795,11 @@
       </trans-unit>
       <trans-unit id="bumpmap_Bitmap">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="bumpmap_Bitmap:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="bumpmap_Bitmap_type_label">
         <source>Data Type</source>
@@ -11215,7 +11215,7 @@
       </trans-unit>
       <trans-unit id="ceramic_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="ceramic_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -11223,7 +11223,7 @@
       </trans-unit>
       <trans-unit id="ceramic_roundcorners_radius:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="ceramic_satin">
         <source>Satin</source>
@@ -11351,7 +11351,7 @@
       </trans-unit>
       <trans-unit id="chrome">
         <source>chrome</source>
-        <target>クローム</target>
+        <target>クロム</target>
       </trans-unit>
       <trans-unit id="circular">
         <source>circular</source>
@@ -11743,7 +11743,7 @@
       </trans-unit>
       <trans-unit id="concrete_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="concrete_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -11751,7 +11751,7 @@
       </trans-unit>
       <trans-unit id="concrete_roundcorners_radius:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="concrete_sealant">
         <source>Sealant</source>
@@ -11943,7 +11943,7 @@
       </trans-unit>
       <trans-unit id="decApp_glossiness">
         <source>Finish:</source>
-        <target>仕上げ:</target>
+        <target>仕上:</target>
       </trans-unit>
       <trans-unit id="decApp_glossiness:tooltip">
         <source>Specify the brightness of the specular highlights (hot spots) on the decal</source>
@@ -11951,7 +11951,7 @@
       </trans-unit>
       <trans-unit id="decApp_glossiness:uilabel">
         <source>Finish:</source>
-        <target>仕上げ:</target>
+        <target>仕上:</target>
       </trans-unit>
       <trans-unit id="decApp_glossiness_gloss">
         <source>Gloss</source>
@@ -12951,7 +12951,7 @@
       </trans-unit>
       <trans-unit id="generic_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="generic_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -13355,7 +13355,7 @@
       </trans-unit>
       <trans-unit id="gradient_interpolation:gradient_interp_solid">
         <source>Solid</source>
-        <target>塗り潰し</target>
+        <target>固体</target>
       </trans-unit>
       <trans-unit id="gradient_interpolation:uilabel">
         <source>Interpolation</source>
@@ -14003,7 +14003,7 @@
       </trans-unit>
       <trans-unit id="hardwood_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="hardwood_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -14011,7 +14011,7 @@
       </trans-unit>
       <trans-unit id="hardwood_roundcorners_radius:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="hardwood_satin">
         <source>Satin Varnish</source>
@@ -15159,7 +15159,7 @@
       </trans-unit>
       <trans-unit id="masonrycmu_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="masonrycmu_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -15167,7 +15167,7 @@
       </trans-unit>
       <trans-unit id="masonrycmu_roundcorners_radius:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="masonrycmu_type">
         <source>Type</source>
@@ -15291,7 +15291,7 @@
       </trans-unit>
       <trans-unit id="metal_chrome">
         <source>Chrome</source>
-        <target>クローム</target>
+        <target>クロム</target>
       </trans-unit>
       <trans-unit id="metal_color">
         <source>Color</source>
@@ -15363,7 +15363,7 @@
       </trans-unit>
       <trans-unit id="metal_finish:tooltip">
         <source>Selects a surface finish for Aluminum, Chrome, Copper, Brass, Bronze, and Stainless Steel only.</source>
-        <target>アルミニウム、クローム、銅、真鍮、ブロンズ、およびステンレス鋼専用のサーフェス仕上げを選択します。</target>
+        <target>アルミニウム、クロム、銅、真鍮、ブロンズ、およびステンレス鋼専用のサーフェス仕上げを選択します。</target>
       </trans-unit>
       <trans-unit id="metal_finish:uilabel">
         <source>Finish</source>
@@ -15683,7 +15683,7 @@
       </trans-unit>
       <trans-unit id="metal_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="metal_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -15691,7 +15691,7 @@
       </trans-unit>
       <trans-unit id="metal_roundcorners_radius:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="metal_satin">
         <source>Satin</source>
@@ -15723,7 +15723,7 @@
       </trans-unit>
       <trans-unit id="metal_type:metal_chrome">
         <source>Chrome</source>
-        <target>クローム</target>
+        <target>クロム</target>
       </trans-unit>
       <trans-unit id="metal_type:metal_copper">
         <source>Copper</source>
@@ -16063,7 +16063,7 @@
       </trans-unit>
       <trans-unit id="metallicpaint_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="metallicpaint_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -16071,7 +16071,7 @@
       </trans-unit>
       <trans-unit id="metallicpaint_roundcorners_radius:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="metallicpaint_topcoat">
         <source>Type</source>
@@ -16083,7 +16083,7 @@
       </trans-unit>
       <trans-unit id="metallicpaint_topcoat:metallicpaint_topcoat_chrome">
         <source>Chrome</source>
-        <target>クローム</target>
+        <target>クロム</target>
       </trans-unit>
       <trans-unit id="metallicpaint_topcoat:metallicpaint_topcoat_custom">
         <source>Custom</source>
@@ -16095,7 +16095,7 @@
       </trans-unit>
       <trans-unit id="metallicpaint_topcoat:tooltip">
         <source>Selects from among Matte, Chrome, Car Paint, and Custom.</source>
-        <target>[マット]、[クローム]、[車両ペイント]、[カスタム]の中から選択します。</target>
+        <target>[マット]、[クロム]、[車両ペイント]、[カスタム]の中から選択します。</target>
       </trans-unit>
       <trans-unit id="metallicpaint_topcoat:uilabel">
         <source>Top Coat</source>
@@ -16107,7 +16107,7 @@
       </trans-unit>
       <trans-unit id="metallicpaint_topcoat_chrome">
         <source>Chrome</source>
-        <target>クローム</target>
+        <target>クロム</target>
       </trans-unit>
       <trans-unit id="metallicpaint_topcoat_custom">
         <source>Custom</source>
@@ -16119,7 +16119,7 @@
       </trans-unit>
       <trans-unit id="metallicpaint_topcoat_falloff:tooltip">
         <source>Slides from 0=No Fresnel effect (constant reflections like Chrome) to 100=High Fresnel (really reflective only in a narrow zone at extreme angles. Extreme limit placed for realistic top coats (on a scale combining Fresnel bias, power, and scale), with Car Paint around 80.)</source>
-        <target>スライダを 0 (フレネル効果なし。クロームのような不変の反射)から 100 (フレネル効果高。極端な角度のときに狭いゾーンのみで完全反射します。極端な角度の限度は、車両ペイント 80 くらいの現実的な表面コーティング(フラネルのバイアス、強さ、尺度を統合した尺度)に配置されます)の間で動かします。</target>
+        <target>スライダを 0 (フレネル効果なし。クロムのような不変の反射)から 100 (フレネル効果高。極端な角度のときに狭いゾーンのみで完全反射します。極端な角度の限度は、車両ペイント 80 くらいの現実的な表面コーティング(フラネルのバイアス、強さ、尺度を統合した尺度)に配置されます)の間で動かします。</target>
       </trans-unit>
       <trans-unit id="metallicpaint_topcoat_falloff:uilabel">
         <source>Angle Falloff</source>
@@ -16207,7 +16207,7 @@
       </trans-unit>
       <trans-unit id="mirror_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="mirror_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -16215,7 +16215,7 @@
       </trans-unit>
       <trans-unit id="mirror_roundcorners_radius:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="mirror_tintcolor">
         <source>Color</source>
@@ -17259,7 +17259,7 @@
       </trans-unit>
       <trans-unit id="plasticvinyl_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="plasticvinyl_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -17739,7 +17739,7 @@
       </trans-unit>
       <trans-unit id="solid">
         <source>solid</source>
-        <target>塗り潰し</target>
+        <target>固体</target>
       </trans-unit>
       <trans-unit id="solid_props1">
         <source>Properties</source>
@@ -17967,7 +17967,7 @@
       </trans-unit>
       <trans-unit id="solidglass_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="solidglass_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -17975,7 +17975,7 @@
       </trans-unit>
       <trans-unit id="solidglass_roundcorners_radius:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="solidglass_solidglassgroup">
         <source>Solid Glass</source>
@@ -18519,7 +18519,7 @@
       </trans-unit>
       <trans-unit id="stone_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="stone_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -18527,7 +18527,7 @@
       </trans-unit>
       <trans-unit id="stone_roundcorners_radius:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="stone_stonegroup">
         <source>Stone</source>
@@ -18947,11 +18947,11 @@
       </trans-unit>
       <trans-unit id="structural_source">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="structural_source:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="structural_sourceURL">
         <source>Source URL</source>
@@ -19715,11 +19715,11 @@
       </trans-unit>
       <trans-unit id="thermal_source">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="thermal_source:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="thermal_sourceURL">
         <source>Source URL</source>
@@ -20247,11 +20247,11 @@
       </trans-unit>
       <trans-unit id="unifiedbitmap_Bitmap">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="unifiedbitmap_Bitmap:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="unifiedbitmap_Bitmap_urn:uilabel">
         <source>URN</source>
@@ -20635,7 +20635,7 @@
       </trans-unit>
       <trans-unit id="wallpaint_roundcorners_radius">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="wallpaint_roundcorners_radius:tooltip">
         <source>Adjusts the radius of the round corner effect.</source>
@@ -20643,7 +20643,7 @@
       </trans-unit>
       <trans-unit id="wallpaint_roundcorners_radius:uilabel">
         <source>Source</source>
-        <target>ソース</target>
+        <target>ファイル名</target>
       </trans-unit>
       <trans-unit id="wallpaint_semigloss">
         <source>Semi-gloss</source>
@@ -21771,7 +21771,7 @@
       </trans-unit>
       <trans-unit id="Polycarbonate, Clear">
         <source>Polycarbonate, Clear</source>
-        <target>ポリカーボネート、クリア </target>
+        <target>ポリカーボネート、クリア</target>
       </trans-unit>
       <trans-unit id="Polycarbonate, Smoke">
         <source>Polycarbonate, Smoke</source>
@@ -21859,7 +21859,7 @@
       </trans-unit>
       <trans-unit id="Wood (Oak)">
         <source>Wood (Oak)</source>
-        <target>木 (オーク)</target>
+        <target>木材 (オーク)</target>
       </trans-unit>
       <trans-unit id="Wood (Walnut)">
         <source>Wood (Walnut)</source>

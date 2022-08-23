@@ -3739,7 +3739,7 @@
       </trans-unit>
       <trans-unit id="Finishes.Flooring.Vinyl.Checker.Black-White">
         <source>Finishes.Flooring.Vinyl.Checker.Black-White</source>
-        <target>Oberflächen.Boden.Vinyl.Schachbrettmuster.Schwarzweiß</target>
+        <target>Oberflächen.Boden.PVC.Schachbrettmuster.Schwarzweiß</target>
       </trans-unit>
       <trans-unit id="Finishes.Flooring.Wood.Hardwood">
         <source>Finishes.Flooring.Wood.Hardwood</source>
@@ -4087,7 +4087,7 @@
       </trans-unit>
       <trans-unit id="Flooring/Vinyl">
         <source>Flooring/Vinyl</source>
-        <target>Boden/Vinyl</target>
+        <target>Boden/PVC</target>
       </trans-unit>
       <trans-unit id="Flooring/Wood">
         <source>Flooring/Wood</source>
@@ -7943,7 +7943,7 @@
       </trans-unit>
       <trans-unit id="PlasticVinyl">
         <source>PlasticVinyl</source>
-        <target>Kunststoff Vinyl</target>
+        <target>Kunststoff PVC</target>
       </trans-unit>
       <trans-unit id="PlasticVinylSchema_localname:Plastic">
         <source>Plastic</source>
@@ -17283,7 +17283,7 @@
       </trans-unit>
       <trans-unit id="plasticvinyl_type:plasticvinyl_vinyl">
         <source>Vinyl</source>
-        <target>Vinyl</target>
+        <target>PVC</target>
       </trans-unit>
       <trans-unit id="plasticvinyl_type:tooltip">
         <source>Selects from among Plastic (solid or transparent) or vinyl.</source>
@@ -17295,7 +17295,7 @@
       </trans-unit>
       <trans-unit id="plasticvinyl_vinyl">
         <source>Vinyl</source>
-        <target>Vinyl</target>
+        <target>PVC</target>
       </trans-unit>
       <trans-unit id="plate">
         <source>plate</source>
@@ -21639,11 +21639,11 @@
       </trans-unit>
       <trans-unit id="Acetal Resin, Black">
         <source>Acetal Resin, Black</source>
-        <target>Acetalharz, schwarz</target>
+        <target>Acetalharz, Schwarz</target>
       </trans-unit>
       <trans-unit id="Acetal Resin, White">
         <source>Acetal Resin, White</source>
-        <target>Acetalharz, weiß</target>
+        <target>Acetalharz, Weiß</target>
       </trans-unit>
       <trans-unit id="Alloy Steel">
         <source>Alloy Steel</source>
@@ -21823,11 +21823,11 @@
       </trans-unit>
       <trans-unit id="UHMW, Black">
         <source>UHMW, Black</source>
-        <target>UHMW, schwarz</target>
+        <target>UHMW, Schwarz</target>
       </trans-unit>
       <trans-unit id="UHMW, White">
         <source>UHMW, White</source>
-        <target>UHMW, weiß</target>
+        <target>UHMW, Weiß</target>
       </trans-unit>
       <trans-unit id="Welded Aluminum-6061">
         <source>Welded Aluminum-6061</source>

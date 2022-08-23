@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<FeatureAutoname Version="2022"><!--Change this version every major release-->
+<FeatureAutoname Version="2023"><!--Change this version every major release-->
   <!--Created by Autodesk Inventor Version 15.0 Production Candidate-->
   <!--The schema of this file is subject to change without notice and is not guaranteed to remain the same from one release to the next.-->
   <Feature InternalName="ExtrudeFeature" ShowExtendedName="1" >
@@ -164,11 +164,14 @@
   <Feature InternalName="SheetMetal_Plate" ShowExtendedName="1">
     <Format InternalName="DefaultFormat" FormatString="[Thickness]" Default="[Thickness]"/>
   </Feature>
+  <Feature InternalName="SheetMetal_Face" ShowExtendedName="1">
+    <Format InternalName="DefaultFormat" FormatString="[Operation] [Thickness]" Default="[Operation] [Thickness]"/>
+  </Feature>
   <Feature InternalName="SheetMetal_Flange" ShowExtendedName="1">
     <Format InternalName="DefaultFormat" FormatString="[HeightExtents] x [Angle]" Default="[HeightExtents] x [Angle]"/>
   </Feature>	
   <Feature InternalName="SheetMetal_ContourFlange" ShowExtendedName="1">
-    <Format InternalName="DefaultFormat" FormatString="[Thickness] x [Distance]" Default="[Thickness] x [Distance]"/>
+    <Format InternalName="DefaultFormat" FormatString="[Operation] x [Thickness][xExtents]" Default="[Operation][Thickness][xExtents]"/>
   </Feature>
   <Feature InternalName="SheetMetal_Bend" ShowExtendedName="1">
     <Format InternalName="DefaultFormat" FormatString="[Radius]" Default="[Radius]"/>

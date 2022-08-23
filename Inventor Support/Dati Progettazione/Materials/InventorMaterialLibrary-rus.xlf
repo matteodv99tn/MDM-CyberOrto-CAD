@@ -8627,7 +8627,7 @@
       </trans-unit>
       <trans-unit id="StructuralBasicSchema_localtype:Physical">
         <source>Physical</source>
-        <target>Физические параметры</target>
+        <target>Физические свойства</target>
       </trans-unit>
       <trans-unit id="StructuralConcrete">
         <source>StructuralConcrete</source>
@@ -8647,7 +8647,7 @@
       </trans-unit>
       <trans-unit id="StructuralConcreteSchema_localtype:Physical">
         <source>Physical</source>
-        <target>Физические параметры</target>
+        <target>Физические свойства</target>
       </trans-unit>
       <trans-unit id="StructuralFatigue">
         <source>StructuralFatigue</source>
@@ -8671,7 +8671,7 @@
       </trans-unit>
       <trans-unit id="StructuralGasSchema_localtype:Physical">
         <source>Physical</source>
-        <target>Физические параметры</target>
+        <target>Физические свойства</target>
       </trans-unit>
       <trans-unit id="StructuralGeneric">
         <source>StructuralGeneric</source>
@@ -8691,7 +8691,7 @@
       </trans-unit>
       <trans-unit id="StructuralGenericSchema_localtype:Physical">
         <source>Physical</source>
-        <target>Физические параметры</target>
+        <target>Физические свойства</target>
       </trans-unit>
       <trans-unit id="StructuralLiquid">
         <source>StructuralLiquid</source>
@@ -8703,7 +8703,7 @@
       </trans-unit>
       <trans-unit id="StructuralLiquidSchema_localtype:Physical">
         <source>Physical</source>
-        <target>Физические параметры</target>
+        <target>Физические свойства</target>
       </trans-unit>
       <trans-unit id="StructuralMetal">
         <source>StructuralMetal</source>
@@ -8755,7 +8755,7 @@
       </trans-unit>
       <trans-unit id="StructuralMetalSchema_localtype:Physical">
         <source>Physical</source>
-        <target>Физические параметры</target>
+        <target>Физические свойства</target>
       </trans-unit>
       <trans-unit id="StructuralPlastic">
         <source>StructuralPlastic</source>
@@ -8843,7 +8843,7 @@
       </trans-unit>
       <trans-unit id="StructuralPlasticSchema_localtype:Physical">
         <source>Physical</source>
-        <target>Физические параметры</target>
+        <target>Физические свойства</target>
       </trans-unit>
       <trans-unit id="StructuralWood">
         <source>StructuralWood</source>
@@ -8855,7 +8855,7 @@
       </trans-unit>
       <trans-unit id="StructuralWoodSchema_localtype:Physical">
         <source>Physical</source>
-        <target>Физические параметры</target>
+        <target>Физические свойства</target>
       </trans-unit>
       <trans-unit id="Stucco">
         <source>Stucco</source>
@@ -9119,7 +9119,7 @@
       </trans-unit>
       <trans-unit id="ThermalGasSchema_localtype:Thermal">
         <source>Thermal</source>
-        <target>Тепловые</target>
+        <target>Теплотехнические свойства</target>
       </trans-unit>
       <trans-unit id="ThermalLiquid">
         <source>ThermalLiquid</source>
@@ -9135,7 +9135,7 @@
       </trans-unit>
       <trans-unit id="ThermalLiquidSchema_localtype:Thermal">
         <source>Thermal</source>
-        <target>Тепловые</target>
+        <target>Теплотехнические свойства</target>
       </trans-unit>
       <trans-unit id="ThermalSolid">
         <source>ThermalSolid</source>
@@ -9295,7 +9295,7 @@
       </trans-unit>
       <trans-unit id="ThermalSolidSchema_localtype:Thermal">
         <source>Thermal</source>
-        <target>Тепловые</target>
+        <target>Теплотехнические свойства</target>
       </trans-unit>
       <trans-unit id="Thermoplastic">
         <source>Thermoplastic</source>
@@ -13643,7 +13643,7 @@
       </trans-unit>
       <trans-unit id="graphics_cut_pattern_label">
         <source>Cut Pattern</source>
-        <target>Штриховка разреза</target>
+        <target>Штриховка сечения</target>
       </trans-unit>
       <trans-unit id="graphics_shading_color">
         <source>Color</source>

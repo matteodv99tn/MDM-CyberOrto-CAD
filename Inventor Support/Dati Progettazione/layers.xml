@@ -36,7 +36,7 @@
     <Name Description="" Language="1046">Geometria de rascunho 3D (GOST)</Name>
     <Name Description="" Language="1049">3D Эскизная геометрия (ГОСТ)</Name>
     <Name Description="" Language="2052">三维草图几何图元 (GOST)</Name>
-    <Name Description="" Language="3082">3D Geometría del boceto (GOST)</Name>
+    <Name Description="" Language="3082">3D Geometría de boceto (GOST)</Name>
   </Style>
 
   <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:3D Sketch Geometry (ISO)&#xA;" LinePattern="28107" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
@@ -53,7 +53,7 @@
     <Name Description="" Language="1046">Geometria de rascunho 3D (ISO)</Name>
     <Name Description="" Language="1049">3D Эскизная геометрия (ISO)</Name>
     <Name Description="" Language="2052">三维草图几何图元 (ISO)</Name>
-    <Name Description="" Language="3082">3D Geometría del boceto (ISO)</Name>
+    <Name Description="" Language="3082">3D Geometría de boceto (ISO)</Name>
   </Style>
 
   <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Bend Centerline (ANSI)&#xA;" LinePattern="28107" LineThickness="0.0254" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
@@ -835,7 +835,7 @@
     <Name Description="" Language="1046">Geometria de rascunho (ANSI)</Name>
     <Name Description="" Language="1049">Эскизная геометрия (ANSI)</Name>
     <Name Description="" Language="2052">草图几何图元 (ANSI)</Name>
-    <Name Description="" Language="3082">Geometría del boceto (ANSI)</Name>
+    <Name Description="" Language="3082">Geometría de boceto (ANSI)</Name>
   </Style>
 
   <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Sketch Geometry (GOST)&#xA;" LinePattern="28100" LineThickness="0.05" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
@@ -852,7 +852,7 @@
     <Name Description="" Language="1046">Geometria de rascunho (GOST)</Name>
     <Name Description="" Language="1049">Эскизная геометрия (ГОСТ)</Name>
     <Name Description="" Language="2052">草图几何图元 (GOST)</Name>
-    <Name Description="" Language="3082">Geometría del boceto (GOST)</Name>
+    <Name Description="" Language="3082">Geometría de boceto (GOST)</Name>
   </Style>
 
   <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Sketch Geometry (ISO)&#xA;" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">

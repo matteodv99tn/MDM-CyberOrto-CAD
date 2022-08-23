@@ -1704,10 +1704,10 @@
     <Name Description="" Language="1041">Object Defaults (Fabrication)</Name>
     <Name Description="" Language="1042">객체 기본값(제작)</Name>
     <Name Description="" Language="1045">Wartości domyślne obiektu (produkcja)</Name>
-    <Name Description="" Language="1046">Padrões do objeto (Fabricação)</Name>
+    <Name Description="" Language="1046">Padrões de objetos (Fabricação)</Name>
     <Name Description="" Language="1049">Типовые характеристики объектов (производство)</Name>
-    <Name Description="" Language="2052">对象默认设置(Fabrication)</Name>
-    <Name Description="" Language="3082">Valores por defecto de objetos (fabricación)</Name>
+    <Name Description="" Language="2052">对象默认设置 (Fabrication)</Name>
+    <Name Description="" Language="3082">Valores por defecto de objeto (fabricación)</Name>
   </Style>
 
   <Style EditFlag="0" InternalName="1:Object Defaults (GB)&#xA; ">
@@ -3127,6 +3127,10 @@
 			<SubStyle Type="Layer"/>
 			<SubStyle Collection="Weld" Language="1033" Type="ObjectStyle">Weld Symbol (ANSI) - 3DA</SubStyle>
 		</ObjectDefaultsEntry>
+    <ObjectDefaultsEntry Category="10" InternalName="DatumTarget" VisibleName="Datum\Target 0 0 NullString DatumTarget">
+      <SubStyle Type="Layer"/>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="ObjectStyle">Datum Target (ANSI) - 3DA</SubStyle>
+    </ObjectDefaultsEntry>
     <Name Description="此型式僅供在塑型環境中使用，以設定 3D 註解的格式。修改此型式您需自擔風險，因為並非所有設定都已經過測試，其對 3D 註解的影響尚不可知" Language="1028">物件預設 (ANSI) - 3DA</Name>
     <Name Description="Tento styl je určen k použití v prostředí modelování pouze za účelem formátování 3D poznámky.  Styl lze upravit jen na vlastní nebezpečí, protože nebyla otestována všechna nastavení a jejich vliv na 3D poznámku." Language="1029">Výchozí nastavení objektu (ANSI) - 3DA</Name>
     <Name Description="Dieser Stil wird in der Konstruktionsumgebung nur zum Formatieren von 3D-Anmerkungen verwendet. Eine Änderung dieses Stils erfolgt auf eigenes Risiko, da die Auswirkungen auf 3D-Anmerkungen nicht für alle Einstellungen geprüft wurden" Language="1031">Objektvorgaben (ANSI) - 3DA</Name>
@@ -3196,6 +3200,10 @@
 			<SubStyle Type="Layer"/>
 			<SubStyle Collection="Weld" Language="1033" Type="ObjectStyle">Weld Symbol (ANSI) - 3DA</SubStyle>
 		</ObjectDefaultsEntry>
+    <ObjectDefaultsEntry Category="10" InternalName="DatumTarget" VisibleName="Datum\Target 0 0 NullString DatumTarget">
+      <SubStyle Type="Layer"/>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="ObjectStyle">Datum Target (ANSI) - 3DA</SubStyle>
+    </ObjectDefaultsEntry>
     <Name Description="此型式僅供在塑型環境中使用，以設定 3D 註解的格式。修改此型式您需自擔風險，因為並非所有設定都已經過測試，其對 3D 註解的影響尚不可知" Language="1028">物件預設 (ANSI-mm) - 3DA</Name>
     <Name Description="Tento styl je určen k použití v prostředí modelování pouze za účelem formátování 3D poznámky.  Styl lze upravit jen na vlastní nebezpečí, protože nebyla otestována všechna nastavení a jejich vliv na 3D poznámku." Language="1029">Výchozí nastavení objektu (ANSI-mm) - 3DA</Name>
     <Name Description="Dieser Stil wird in der Konstruktionsumgebung nur zum Formatieren von 3D-Anmerkungen verwendet. Eine Änderung dieses Stils erfolgt auf eigenes Risiko, da die Auswirkungen auf 3D-Anmerkungen nicht für alle Einstellungen geprüft wurden" Language="1031">Objektvorgaben (ANSI-mm) - 3DA</Name>
@@ -3265,6 +3273,10 @@
 			<SubStyle Type="Layer"/>
 			<SubStyle Collection="Weld" Language="1033" Type="ObjectStyle">Weld Symbol (DIN) - 3DA</SubStyle>
 		</ObjectDefaultsEntry>
+    <ObjectDefaultsEntry Category="10" InternalName="DatumTarget" VisibleName="Datum\Target 0 0 NullString DatumTarget">
+      <SubStyle Type="Layer"/>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="ObjectStyle">Datum Target (DIN) - 3DA</SubStyle>
+    </ObjectDefaultsEntry>
     <Name Description="此型式僅供在塑型環境中使用，以設定 3D 註解的格式。修改此型式您需自擔風險，因為並非所有設定都已經過測試，其對 3D 註解的影響尚不可知" Language="1028">物件預設 (DIN) - 3DA</Name>
     <Name Description="Tento styl je určen k použití v prostředí modelování pouze za účelem formátování 3D poznámky.  Styl lze upravit jen na vlastní nebezpečí, protože nebyla otestována všechna nastavení a jejich vliv na 3D poznámku." Language="1029">Výchozí nastavení objektu (DIN) - 3DA</Name>
     <Name Description="Dieser Stil wird in der Konstruktionsumgebung nur zum Formatieren von 3D-Anmerkungen verwendet. Eine Änderung dieses Stils erfolgt auf eigenes Risiko, da die Auswirkungen auf 3D-Anmerkungen nicht für alle Einstellungen geprüft wurden" Language="1031">Objektvorgaben (DIN) - 3DA</Name>
@@ -3334,6 +3346,10 @@
 			<SubStyle Type="Layer"/>
 			<SubStyle Collection="Weld" Language="1033" Type="ObjectStyle">Weld Symbol (ISO) - 3DA</SubStyle>
 		</ObjectDefaultsEntry>
+    <ObjectDefaultsEntry Category="10" InternalName="DatumTarget" VisibleName="Datum\Target 0 0 NullString DatumTarget">
+      <SubStyle Type="Layer"/>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="ObjectStyle">Datum Target (ISO) - 3DA</SubStyle>
+    </ObjectDefaultsEntry>
     <Name Description="此型式僅供在塑型環境中使用，以設定 3D 註解的格式。修改此型式您需自擔風險，因為並非所有設定都已經過測試，其對 3D 註解的影響尚不可知" Language="1028">物件預設 (ISO) - 3DA</Name>
     <Name Description="Tento styl je určen k použití v prostředí modelování pouze za účelem formátování 3D poznámky.  Styl lze upravit jen na vlastní nebezpečí, protože nebyla otestována všechna nastavení a jejich vliv na 3D poznámku." Language="1029">Výchozí nastavení objektu (ISO) - 3DA</Name>
     <Name Description="Dieser Stil wird in der Konstruktionsumgebung nur zum Formatieren von 3D-Anmerkungen verwendet. Eine Änderung dieses Stils erfolgt auf eigenes Risiko, da die Auswirkungen auf 3D-Anmerkungen nicht für alle Einstellungen geprüft wurden" Language="1031">Objektvorgaben (ISO) - 3DA</Name>

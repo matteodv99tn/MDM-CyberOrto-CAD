@@ -6079,7 +6079,7 @@
       </trans-unit>
       <trans-unit id="MaterialInv_018">
         <source>MaterialInv_018</source>
-        <target>鐵灰色</target>
+        <target>鐵、灰色</target>
       </trans-unit>
       <trans-unit id="MaterialInv_020">
         <source>MaterialInv_020</source>
@@ -21803,7 +21803,7 @@
       </trans-unit>
       <trans-unit id="Stainless Steel">
         <source>Stainless Steel</source>
-        <target>不繡鋼</target>
+        <target>不鏽鋼</target>
       </trans-unit>
       <trans-unit id="Stainless Steel, 440C">
         <source>Stainless Steel, 440C</source>

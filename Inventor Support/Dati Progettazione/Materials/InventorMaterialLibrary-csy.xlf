@@ -3131,7 +3131,7 @@
       </trans-unit>
       <trans-unit id="Concrete/Cast-In-Place">
         <source>Concrete/Cast-In-Place</source>
-        <target>Beton/Dělaný na místě</target>
+        <target>Beton/Odlitý na místě</target>
       </trans-unit>
       <trans-unit id="Concrete/Fiber Reinforced">
         <source>Concrete/Fiber Reinforced</source>
@@ -6247,7 +6247,7 @@
       </trans-unit>
       <trans-unit id="MaterialInv_069">
         <source>MaterialInv_069</source>
-        <target>Dřevo (Dub)</target>
+        <target>Dřevo (dub)</target>
       </trans-unit>
       <trans-unit id="MaterialInv_070">
         <source>MaterialInv_070</source>
@@ -8011,7 +8011,7 @@
       </trans-unit>
       <trans-unit id="Polyvinyl Chloride Rigid">
         <source>Polyvinyl Chloride Rigid</source>
-        <target>Polyvinylchlorid - pevný</target>
+        <target>Polyvinylchlorid – pevný</target>
       </trans-unit>
       <trans-unit id="Polyvinyl chloride">
         <source>Polyvinyl chloride</source>
@@ -21687,7 +21687,7 @@
       </trans-unit>
       <trans-unit id="Copper Alloy">
         <source>Copper Alloy</source>
-        <target>Slitina mědi</target>
+        <target>Měď, slitina</target>
       </trans-unit>
       <trans-unit id="Ductile Iron">
         <source>Ductile Iron</source>
@@ -21771,11 +21771,11 @@
       </trans-unit>
       <trans-unit id="Polycarbonate, Clear">
         <source>Polycarbonate, Clear</source>
-        <target>Polykarbonát, čirý </target>
+        <target>Polykarbonát, Čirý</target>
       </trans-unit>
       <trans-unit id="Polycarbonate, Smoke">
         <source>Polycarbonate, Smoke</source>
-        <target>Polykarbonát, kouřový</target>
+        <target>Polykarbonát, Kouřový</target>
       </trans-unit>
       <trans-unit id="Polypropylene">
         <source>Polypropylene</source>
@@ -21859,7 +21859,7 @@
       </trans-unit>
       <trans-unit id="Wood (Oak)">
         <source>Wood (Oak)</source>
-        <target>Dřevo (Dub)</target>
+        <target>Dřevo (dub)</target>
       </trans-unit>
       <trans-unit id="Wood (Walnut)">
         <source>Wood (Walnut)</source>

@@ -1261,7 +1261,7 @@
     <Name Description="" Language="1045">Norma domyślna (produkcja - mm)</Name>
     <Name Description="" Language="1046">Norma padrão (Fabricação-mm)</Name>
     <Name Description="" Language="1049">Стандарт по умолчанию (производство-мм)</Name>
-    <Name Description="" Language="2052">默认标准(Fabrication-mm)</Name>
+    <Name Description="" Language="2052">默认标准 (Fabrication-mm)</Name>
     <Name Description="" Language="3082">Norma por defecto (fabricación-mm)</Name>
   </Style>
 
@@ -1549,7 +1549,7 @@
     <Name Description="" Language="1045">Norma domyślna (produkcja)</Name>
     <Name Description="" Language="1046">Norma padrão (Fabricação)</Name>
     <Name Description="" Language="1049">Стандарт по умолчанию (производство)</Name>
-    <Name Description="" Language="2052">默认标准(Fabrication)</Name>
+    <Name Description="" Language="2052">默认标准 (Fabrication)</Name>
     <Name Description="" Language="3082">Norma por defecto (fabricación)</Name>
   </Style>
 
@@ -2491,7 +2491,9 @@
     <FeatureControlFrameList>
       <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ANSI) - 3DA</SubStyle>
     </FeatureControlFrameList>
-    <DatumTargetList/>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ANSI) - 3DA</SubStyle>
+    </DatumTargetList>
     <CenterMarkList/>
     <IdList>
       <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ANSI) - 3DA</SubStyle>
@@ -2615,7 +2617,9 @@
     <FeatureControlFrameList>
       <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ANSI) - 3DA</SubStyle>
     </FeatureControlFrameList>
-    <DatumTargetList/>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ANSI) - 3DA</SubStyle>
+    </DatumTargetList>
     <CenterMarkList/>
     <IdList>
       <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ANSI) - 3DA</SubStyle>
@@ -2739,7 +2743,9 @@
     <FeatureControlFrameList>
       <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (DIN) - 3DA</SubStyle>
     </FeatureControlFrameList>
-    <DatumTargetList/>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (DIN) - 3DA</SubStyle>
+    </DatumTargetList>
     <CenterMarkList/>
     <IdList>
       <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (DIN) - 3DA</SubStyle>
@@ -2863,7 +2869,9 @@
       <FeatureControlFrameList>
         <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ISO) - 3DA</SubStyle>
       </FeatureControlFrameList>
-      <DatumTargetList/>
+      <DatumTargetList>
+        <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ISO) - 3DA</SubStyle>
+      </DatumTargetList>
       <CenterMarkList/>
       <IdList>
         <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ISO) - 3DA</SubStyle>

@@ -7075,7 +7075,7 @@
       </trans-unit>
       <trans-unit id="PMMA">
         <source>PMMA</source>
-        <target>Polimetakrylan metylu</target>
+        <target>PMMA</target>
       </trans-unit>
       <trans-unit id="POM">
         <source>POM</source>
@@ -7083,7 +7083,7 @@
       </trans-unit>
       <trans-unit id="PP">
         <source>PP</source>
-        <target>Polipropylen</target>
+        <target>PP</target>
       </trans-unit>
       <trans-unit id="PPS">
         <source>PPS</source>
@@ -7555,7 +7555,7 @@
       </trans-unit>
       <trans-unit id="PhysicalMetal_126">
         <source>PhysicalMetal_126</source>
-        <target>Stal — niskostopowa</target>
+        <target>Stal — miękka</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_128">
         <source>PhysicalMetal_128</source>
@@ -19283,7 +19283,7 @@
       </trans-unit>
       <trans-unit id="surface_roughness:tooltip">
         <source>The surface finish of the material, specifying the size of microscopic imperfections. When zero, the whole surface is a perfect mirror. Larger values tend towards more diffuse (rough) appearance and larger highlights. Use together with Anisotropy to obtain a brushed finish effect.</source>
-        <target>Wykończenie powierzchni materiału określające rozmiar mikroskopijnych niedoskonałości. Jeśli wartość wynosi zero, cała powierzchnia stanowi idealne zwierciadło. Większe wartości powodują większe rozpraszanie światła (chropowatość powierzchni) i większe podświetlenia. W połączeniu z parametrem Anizotropia pozwala uzyskać efekt wykończenia zmatowionego.</target>
+        <target>Wykończenie powierzchni materiału określające rozmiar mikroskopijnych niedoskonałości. Jeśli wartość wynosi zero, cała powierzchnia stanowi idealne zwierciadło. Większe wartości powodują większe rozpraszanie światła (chropowatość powierzchni) i większe podświetlenia. W połączeniu z parametrem Anizotropia pozwala uzyskać efekt wykończenia szczotkowanego.</target>
       </trans-unit>
       <trans-unit id="surface_roughness:uilabel">
         <source>Roughness</source>

@@ -5179,7 +5179,7 @@
       </trans-unit>
       <trans-unit id="InvGen-068">
         <source>InvGen-068</source>
-        <target>Fonte - moulé</target>
+        <target>Fonte - Moulé</target>
       </trans-unit>
       <trans-unit id="InvGen-069">
         <source>InvGen-069</source>
@@ -7075,7 +7075,7 @@
       </trans-unit>
       <trans-unit id="PMMA">
         <source>PMMA</source>
-        <target>Polyméthacrylate de méthyle</target>
+        <target>PMMA</target>
       </trans-unit>
       <trans-unit id="POM">
         <source>POM</source>
@@ -7083,7 +7083,7 @@
       </trans-unit>
       <trans-unit id="PP">
         <source>PP</source>
-        <target>Polypropylène</target>
+        <target>PP</target>
       </trans-unit>
       <trans-unit id="PPS">
         <source>PPS</source>
@@ -7503,7 +7503,7 @@
       </trans-unit>
       <trans-unit id="PhysicalMetal_108">
         <source>PhysicalMetal_108</source>
-        <target>Fonte - moulé</target>
+        <target>Fonte - Moulé</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_109">
         <source>PhysicalMetal_109</source>
@@ -7551,7 +7551,7 @@
       </trans-unit>
       <trans-unit id="PhysicalMetal_125">
         <source>PhysicalMetal_125</source>
-        <target>Acier - Modérément allié haute résistance</target>
+        <target>Acier - Haute résistance modérément allié</target>
       </trans-unit>
       <trans-unit id="PhysicalMetal_126">
         <source>PhysicalMetal_126</source>
@@ -8723,7 +8723,7 @@
       </trans-unit>
       <trans-unit id="StructuralMetal-037">
         <source>StructuralMetal-037</source>
-        <target>Fonte - ductile</target>
+        <target>Fonte - Ductile</target>
       </trans-unit>
       <trans-unit id="StructuralMetal-043">
         <source>StructuralMetal-043</source>
@@ -12015,7 +12015,7 @@
       </trans-unit>
       <trans-unit id="decApp_self_illum_filter_map:uilabel">
         <source>Luminance Filter Map:</source>
-        <target>Map filtre de luminance:</target>
+        <target>Texture du filtre de luminance:</target>
       </trans-unit>
       <trans-unit id="decApp_self_illum_luminance">
         <source>Luminance (cd/m^2):</source>
@@ -12063,7 +12063,7 @@
       </trans-unit>
       <trans-unit id="decApp_self_illum_luminance_lcd_screen">
         <source>LCD screen</source>
-        <target>Ecran LCD</target>
+        <target>Écran LCD</target>
       </trans-unit>
       <trans-unit id="decApp_self_illum_luminance_led_panel">
         <source>LED panel</source>
@@ -13675,15 +13675,15 @@
       </trans-unit>
       <trans-unit id="graphics_surface_pattern_alignment">
         <source>Alignment</source>
-        <target>Axe</target>
+        <target>Alignement</target>
       </trans-unit>
       <trans-unit id="graphics_surface_pattern_alignment_x:uilabel">
         <source>Alignment X</source>
-        <target>Axe X</target>
+        <target>Alignement X</target>
       </trans-unit>
       <trans-unit id="graphics_surface_pattern_alignment_y:uilabel">
         <source>Alignment Y</source>
-        <target>Axe Y</target>
+        <target>Alignement Y</target>
       </trans-unit>
       <trans-unit id="graphics_surface_pattern_color">
         <source>Color</source>
@@ -20087,7 +20087,7 @@
       </trans-unit>
       <trans-unit id="tiling:uilabel">
         <source>Tiling</source>
-        <target>Recouvrement</target>
+        <target>Carrelage</target>
       </trans-unit>
       <trans-unit id="timber">
         <source>timber</source>
@@ -21771,7 +21771,7 @@
       </trans-unit>
       <trans-unit id="Polycarbonate, Clear">
         <source>Polycarbonate, Clear</source>
-        <target>Polycarbonate, transparent </target>
+        <target>Polycarbonate, transparent</target>
       </trans-unit>
       <trans-unit id="Polycarbonate, Smoke">
         <source>Polycarbonate, Smoke</source>
