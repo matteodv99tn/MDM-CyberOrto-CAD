@@ -2737,7 +2737,7 @@
   </Dimension>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Quota (ISO)</Name>
       <Name Description="" Language="1028">標註 (ISO)</Name>
       <Name Description="" Language="1029">Kóta (ISO)</Name>
@@ -2756,7 +2756,7 @@
   </Layers>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Roll Centerline&#xA;" LinePattern="28107" LineThickness="0.013" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Roll Centerline-1" LinePattern="28107" LineThickness="0.013" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
       <Name Description="" Language="1040">Linea d'asse rotazione</Name>
       <Name Description="" Language="1028">轉向中心線</Name>
       <Name Description="" Language="1029">Osa rolování</Name>
@@ -3257,7 +3257,7 @@
   </CenterMark>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Work Point (ISO)&#xA;" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Work Point (ISO)&#xA;" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Punto di riferimento (ISO)</Name>
       <Name Description="" Language="1028">工作點 (ISO)</Name>
       <Name Description="" Language="1029">Pracovní bod (ISO)</Name>
@@ -4134,7 +4134,7 @@
   </Text>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Layer2&#xA;" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Layer2-1" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
       <Name Description="" Language="1040">Titolo (ISO)</Name>
       <Name Description="" Language="1028">標題 (ISO)</Name>
       <Name Description="" Language="1029">Nadpis (ISO)</Name>
@@ -4153,7 +4153,7 @@
   </Layers>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Layer2&#xA;" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Layer2-1" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
       <Name Description="" Language="1040">Titolo (ISO)</Name>
       <Name Description="" Language="1028">標題 (ISO)</Name>
       <Name Description="" Language="1029">Nadpis (ISO)</Name>
@@ -4446,7 +4446,7 @@
   </CenterMark>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Work Point (ISO)&#xA;" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Work Point (ISO)&#xA;" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Punto di riferimento (ISO)</Name>
       <Name Description="" Language="1028">工作點 (ISO)</Name>
       <Name Description="" Language="1029">Pracovní bod (ISO)</Name>
@@ -6851,7 +6851,7 @@
   </Leader>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Quota (ISO)</Name>
       <Name Description="" Language="1028">標註 (ISO)</Name>
       <Name Description="" Language="1029">Kóta (ISO)</Name>
@@ -7074,7 +7074,7 @@
   </Dimension>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Quota (ISO)</Name>
       <Name Description="" Language="1028">標註 (ISO)</Name>
       <Name Description="" Language="1029">Kóta (ISO)</Name>
@@ -7297,7 +7297,7 @@
   </Dimension>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Quota (ISO)</Name>
       <Name Description="" Language="1028">標註 (ISO)</Name>
       <Name Description="" Language="1029">Kóta (ISO)</Name>
@@ -7520,7 +7520,7 @@
   </Dimension>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Quota (ISO)</Name>
       <Name Description="" Language="1028">標註 (ISO)</Name>
       <Name Description="" Language="1029">Kóta (ISO)</Name>
@@ -7743,7 +7743,7 @@
   </Dimension>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Quota (ISO)</Name>
       <Name Description="" Language="1028">標註 (ISO)</Name>
       <Name Description="" Language="1029">Kóta (ISO)</Name>
@@ -7966,7 +7966,7 @@
   </Dimension>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Quota (ISO)</Name>
       <Name Description="" Language="1028">標註 (ISO)</Name>
       <Name Description="" Language="1029">Kóta (ISO)</Name>
@@ -8189,7 +8189,7 @@
   </Dimension>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Quota (ISO)</Name>
       <Name Description="" Language="1028">標註 (ISO)</Name>
       <Name Description="" Language="1029">Kóta (ISO)</Name>
@@ -8412,7 +8412,7 @@
   </Dimension>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Quota (ISO)</Name>
       <Name Description="" Language="1028">標註 (ISO)</Name>
       <Name Description="" Language="1029">Kóta (ISO)</Name>
@@ -9000,7 +9000,7 @@
   </Layers>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Layer2&#xA;" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Layer2-1" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
       <Name Description="" Language="1040">Titolo (ISO)</Name>
       <Name Description="" Language="1028">標題 (ISO)</Name>
       <Name Description="" Language="1029">Nadpis (ISO)</Name>
@@ -9038,7 +9038,7 @@
   </Layers>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Work Point (ISO)&#xA;" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Work Point (ISO)&#xA;" LinePattern="28100" LineThickness="0.025" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Punto di riferimento (ISO)</Name>
       <Name Description="" Language="1028">工作點 (ISO)</Name>
       <Name Description="" Language="1029">Pracovní bod (ISO)</Name>
@@ -9285,7 +9285,7 @@
   </Layers>
 
   <Layers Version="1">
-    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="1">
+    <Style Color="-2 -2 -2 -2" EditFlag="0" InternalName="1:Dimension (ISO)&#xA;" LinePattern="28100" LineThickness="0.005" LineTypeScale="1" Printable="1" ScaleByLineWeight="0">
       <Name Description="" Language="1040">Quota (ISO)</Name>
       <Name Description="" Language="1028">標註 (ISO)</Name>
       <Name Description="" Language="1029">Kóta (ISO)</Name>
@@ -9679,7 +9679,7 @@
   </Text>
 
   <Dimension Version="19">
-    <Style EditFlag="0" InternalName="1:Default - mm [in] (ISO)&#xA;">
+    <Style EditFlag="0" InternalName="1:Default - mm [in] (ISO)-1">
       <UnitVals AngularLeadingZero="1" AngularPrecision="2" AngularTrailingZero="0" AngularZeroDisplayType="0" DecimalFormat="0" DecimalPoint="0" FractionStackAlignment="1" FractionStackScale="0.7" FractionStackStyle="-1" FractionalFormat="0" FractionalHeight="1" IncludeZero="0" LeadingZero="1" LengthUnit="0" LinearPrecision="3" ShowUnitString="0" SlashFormat="0" TrailingZero="0"/>
       <DisplayVals DimLineIsDisplayed="1" DimLineOffset="1" DimLineSpacing="0.6" ExtLineAngle="0" ExtLineExtension="0.3175" ExtLineGap="0" LineColor="0 0 0 1" LineColorIsByLayer="1" LineType="28100" LineTypeIsByLayer="1" LineWeight="0.025" LineWeightIsByLayer="1" ShowBreakSymbol="0"/>
       <TextVals AboveHorzDimLine="0" AlignTextOrientation="2" AngTextOrientation="2" DiaTextAlignedInside="1" DiaTextAlignedOutside="1" DiaTextOrientationInside="3" DiaTextOrientationOutside="3" HorzTextOrientation="1" LinTextOrientation="3" Outside30_210="0" OutsideDimLine="0" RadTextAligned="1" RadTextOrientation="3" TextGap="0.0762" VertTextOrientation="2">
